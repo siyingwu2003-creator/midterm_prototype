@@ -3953,3 +3953,115 @@ The following settings have been applied:
 [2026.01.08-19.24.22:988][360]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9592.301758
 [2026.01.08-19.24.23:986][363]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.01.08-19.24.23:986][363]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9592.966797, Update Interval: 328.579987
+[2026.01.08-19.30.45:552][906]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9974.842773
+[2026.01.08-19.30.46:553][909]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.08-19.30.46:553][910]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9975.507812, Update Interval: 353.126007
+[2026.01.08-19.36.43:917][980]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Surface Omnisonic Speakers (Surface High Definition Audio), InstanceID=1
+[2026.01.08-19.36.43:918][980]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{72c56338-4295-4ff3-9caf-04dfb7138def}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2026.01.08-19.36.44:104][980]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [{0.0.0.00000000}.{72c56338-4295-4ff3-9caf-04dfb7138def}]
+[2026.01.08-19.36.44:104][980]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2026.01.08-19.36.44:104][980]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2026.01.08-19.36.44:442][981]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{72c56338-4295-4ff3-9caf-04dfb7138def}, Name=Surface Omnisonic Speakers (Surface High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=277.92
+[2026.01.08-19.36.44:442][981]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2026.01.08-19.36.44:442][981]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.01.08-19.36.44:445][981]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.01.08-19.39.40:331][ 27]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10509.614258
+[2026.01.08-19.39.40:452][ 28]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=G27Q (2- NVIDIA High Definition Audio), InstanceID=1
+[2026.01.08-19.39.40:452][ 28]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{9de552f9-8645-4194-a130-afc89ff1d885}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2026.01.08-19.39.40:660][ 28]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [{0.0.0.00000000}.{9de552f9-8645-4194-a130-afc89ff1d885}]
+[2026.01.08-19.39.40:660][ 28]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2026.01.08-19.39.40:661][ 28]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2026.01.08-19.39.40:701][ 28]LogAudioMixer: Error: CreateMasteringVoice failed with result 0x88890004: AUDCLNT_E_DEVICE_INVALIDATED (line: 1277) with Args (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{9de552f9-8645-4194-a130-afc89ff1d885}, Name=G27Q (2- NVIDIA High Definition Audio))
+[2026.01.08-19.39.40:869][ 29]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Surface Omnisonic Speakers (Surface High Definition Audio), InstanceID=1
+[2026.01.08-19.39.40:869][ 29]LogAudioMixer: Display: Ignoring device swap request, swap already requested.
+[2026.01.08-19.39.40:869][ 29]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '{0.0.0.00000000}.{72c56338-4295-4ff3-9caf-04dfb7138def}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2026.01.08-19.39.41:255][ 29]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=G27Q (2- NVIDIA High Definition Audio), InstanceID=1
+[2026.01.08-19.39.41:255][ 29]LogAudioMixer: Display: Ignoring device swap request, swap already requested.
+[2026.01.08-19.39.41:255][ 29]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '{0.0.0.00000000}.{9de552f9-8645-4194-a130-afc89ff1d885}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2026.01.08-19.39.41:603][ 29]LogAudioMixer: Warning: FAudioMixerPlatformSwappable::CheckThreadedDeviceSwap PostDeviceSwap() failed
+[2026.01.08-19.39.41:603][ 29]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2026.01.08-19.39.41:603][ 29]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2026.01.08-19.39.41:603][ 29]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.01.08-19.39.41:603][ 29]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=11976
+[2026.01.08-19.39.41:603][ 29]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.01.08-19.39.41:880][ 29]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.01.08-19.39.41:905][ 29]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.08-19.39.41:905][ 29]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10509.994141, Update Interval: 310.309143
+[2026.01.08-19.40.09:977][113]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Surface Omnisonic Speakers (Surface High Definition Audio), InstanceID=1
+[2026.01.08-19.40.09:977][113]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{72c56338-4295-4ff3-9caf-04dfb7138def}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2026.01.08-19.40.10:150][113]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [{0.0.0.00000000}.{72c56338-4295-4ff3-9caf-04dfb7138def}]
+[2026.01.08-19.40.10:150][113]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2026.01.08-19.40.10:150][113]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2026.01.08-19.40.10:484][114]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2026.01.08-19.40.10:487][114]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{72c56338-4295-4ff3-9caf-04dfb7138def}, Name=Surface Omnisonic Speakers (Surface High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=285.42
+[2026.01.08-19.40.10:487][114]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2026.01.08-19.40.10:487][114]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.01.08-19.40.10:491][114]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.01.08-19.45.41:225][106]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10870.515625
+[2026.01.08-19.45.42:224][109]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.08-19.45.42:224][110]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10871.180664, Update Interval: 319.098480
+[2026.01.08-20.06.56:193][881]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=G27Q (2- NVIDIA High Definition Audio), InstanceID=1
+[2026.01.08-20.06.56:193][881]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{9de552f9-8645-4194-a130-afc89ff1d885}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2026.01.08-20.06.56:511][881]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [{0.0.0.00000000}.{9de552f9-8645-4194-a130-afc89ff1d885}]
+[2026.01.08-20.06.56:511][881]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2026.01.08-20.06.56:511][881]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2026.01.08-20.06.56:599][882]LogAudioMixer: Error: CreateMasteringVoice failed with result 0x88890004: AUDCLNT_E_DEVICE_INVALIDATED (line: 1277) with Args (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{9de552f9-8645-4194-a130-afc89ff1d885}, Name=G27Q (2- NVIDIA High Definition Audio))
+[2026.01.08-20.06.56:843][882]LogAudioMixer: Warning: FAudioMixerPlatformSwappable::CheckThreadedDeviceSwap PostDeviceSwap() failed
+[2026.01.08-20.06.56:843][882]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2026.01.08-20.06.56:843][882]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2026.01.08-20.06.56:843][882]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.01.08-20.06.56:843][882]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=11976
+[2026.01.08-20.06.56:843][882]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.01.08-20.06.57:382][882]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.01.08-20.06.58:506][887]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Surface Omnisonic Speakers (Surface High Definition Audio), InstanceID=1
+[2026.01.08-20.06.58:506][887]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{72c56338-4295-4ff3-9caf-04dfb7138def}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2026.01.08-20.06.58:725][887]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [{0.0.0.00000000}.{72c56338-4295-4ff3-9caf-04dfb7138def}]
+[2026.01.08-20.06.58:725][887]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2026.01.08-20.06.58:725][887]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2026.01.08-20.06.58:769][888]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=G27Q (2- NVIDIA High Definition Audio), InstanceID=1
+[2026.01.08-20.06.58:769][888]LogAudioMixer: Display: Ignoring device swap request, swap already requested.
+[2026.01.08-20.06.58:769][888]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '{0.0.0.00000000}.{9de552f9-8645-4194-a130-afc89ff1d885}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2026.01.08-20.06.59:059][888]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2026.01.08-20.06.59:063][888]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{72c56338-4295-4ff3-9caf-04dfb7138def}, Name=Surface Omnisonic Speakers (Surface High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=98.54
+[2026.01.08-20.06.59:063][888]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2026.01.08-20.06.59:063][888]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.01.08-20.06.59:066][888]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.01.08-20.07.25:881][967]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Surface Omnisonic Speakers (Surface High Definition Audio), InstanceID=1
+[2026.01.08-20.07.25:881][967]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{72c56338-4295-4ff3-9caf-04dfb7138def}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2026.01.08-20.07.26:013][967]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [{0.0.0.00000000}.{72c56338-4295-4ff3-9caf-04dfb7138def}]
+[2026.01.08-20.07.26:013][967]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2026.01.08-20.07.26:013][967]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2026.01.08-20.07.26:348][968]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{72c56338-4295-4ff3-9caf-04dfb7138def}, Name=Surface Omnisonic Speakers (Surface High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=96.54
+[2026.01.08-20.07.26:349][968]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2026.01.08-20.07.26:349][968]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.01.08-20.07.26:352][968]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.01.08-20.07.30:352][980]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12179.641602
+[2026.01.08-20.07.31:354][983]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.08-20.07.31:354][983]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12180.307617, Update Interval: 354.997406
+[2026.01.08-20.08.59:776][249]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=G27Q (2- NVIDIA High Definition Audio), InstanceID=1
+[2026.01.08-20.08.59:776][249]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{9de552f9-8645-4194-a130-afc89ff1d885}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2026.01.08-20.09.00:033][249]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [{0.0.0.00000000}.{9de552f9-8645-4194-a130-afc89ff1d885}]
+[2026.01.08-20.09.00:033][249]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2026.01.08-20.09.00:033][249]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2026.01.08-20.09.00:370][250]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{9de552f9-8645-4194-a130-afc89ff1d885}, Name=G27Q (2- NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=30.18
+[2026.01.08-20.09.00:370][250]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2026.01.08-20.09.00:370][250]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.01.08-20.09.00:373][250]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.01.08-20.09.00:572][251]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Surface Omnisonic Speakers (Surface High Definition Audio), InstanceID=1
+[2026.01.08-20.09.00:572][251]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{72c56338-4295-4ff3-9caf-04dfb7138def}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2026.01.08-20.09.00:700][251]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [{0.0.0.00000000}.{72c56338-4295-4ff3-9caf-04dfb7138def}]
+[2026.01.08-20.09.00:700][251]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2026.01.08-20.09.00:700][251]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2026.01.08-20.09.02:036][255]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{72c56338-4295-4ff3-9caf-04dfb7138def}, Name=Surface Omnisonic Speakers (Surface High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=1040.61
+[2026.01.08-20.09.02:036][255]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2026.01.08-20.09.02:036][255]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.01.08-20.09.02:039][255]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.01.08-20.09.03:971][261]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=G27Q (2- NVIDIA High Definition Audio), InstanceID=1
+[2026.01.08-20.09.03:971][261]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{9de552f9-8645-4194-a130-afc89ff1d885}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2026.01.08-20.09.04:116][261]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [{0.0.0.00000000}.{9de552f9-8645-4194-a130-afc89ff1d885}]
+[2026.01.08-20.09.04:116][261]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2026.01.08-20.09.04:116][261]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2026.01.08-20.09.04:786][263]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{9de552f9-8645-4194-a130-afc89ff1d885}, Name=G27Q (2- NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=493.51
+[2026.01.08-20.09.04:786][263]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2026.01.08-20.09.04:786][263]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.01.08-20.09.04:793][263]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
