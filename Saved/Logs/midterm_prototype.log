@@ -4065,3 +4065,6 @@ The following settings have been applied:
 [2026.01.08-20.09.04:786][263]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
 [2026.01.08-20.09.04:786][263]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
 [2026.01.08-20.09.04:793][263]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.01.08-20.14.09:501][177]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12578.801758
+[2026.01.08-20.14.10:500][180]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.08-20.14.10:500][180]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12579.468750, Update Interval: 315.776855
