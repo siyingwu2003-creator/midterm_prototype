@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/unreal engine/midterm_prototype/Content/L_OneWayRooms.umap",
+				"D:/unreal engine/midterm_prototype/Content/Blueprints/BP_Log.uasset",
+				"D:/unreal engine/midterm_prototype/Content/Blueprints/OneWayRoom.umap",
+				"D:/unreal engine/midterm_prototype/Content/ThirdPerson/MI_ThirdPersonColWay.uasset",
+				"D:/unreal engine/midterm_prototype/Content/LevelPrototyping/Meshes/SM_ChamferCube.uasset",
+				"D:/unreal engine/midterm_prototype/Content/LevelPrototyping/Meshes/SM_Cylinder.uasset",
+				"D:/unreal engine/midterm_prototype/Content/LevelPrototyping/Meshes/SM_QuarterCylinder.uasset",
+				"D:/unreal engine/midterm_prototype/Content/LevelPrototyping/Interactable/Target/Assets/SM_TargetBaseMesh.uasset",
+				"D:/unreal engine/midterm_prototype/Content/LevelPrototyping/Interactable/Door/Assets/Meshes/SM_Door.uasset",
+				"D:/unreal engine/midterm_prototype/Content/LevelPrototyping/Interactable/Door/Assets/Meshes/SM_DoorFrame_Corner.uasset",
+				"D:/unreal engine/midterm_prototype/Content/LevelPrototyping/Interactable/Door/Assets/Meshes/SM_DoorFrame_Edge.uasset",
+				"D:/unreal engine/midterm_prototype/Content/LevelPrototyping/Interactable/JumpPad/Assets/Meshes/SM_CircularBand.uasset",
+				"D:/unreal engine/midterm_prototype/Content/LevelPrototyping/Interactable/JumpPad/Assets/Meshes/SM_CircularGlow.uasset",
+				"D:/unreal engine/midterm_prototype/Content/LevelPrototyping/Meshes/SM_SM_ChamferCube.uasset"
+			]
+		}
+	]
+}
