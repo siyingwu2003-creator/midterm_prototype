@@ -1999,3 +1999,23 @@ The following settings have been applied:
 [2026.01.15-01.17.54:981][251]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=2
 [2026.01.15-01.17.54:989][251]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
 [2026.01.15-01.17.55:077][252]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2026.01.15-01.18.53:201][179]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2026.01.15-01.18.53:204][179]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/L_OneWayRooms" FILE="../../../../midterm_prototype/Saved/Autosaves/Game/L_OneWayRooms_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2026.01.15-01.18.53:233][179]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/L_OneWayRooms_Auto1
+[2026.01.15-01.18.53:233][179]LogSavePackage: Moving '../../../../midterm_prototype/Saved/L_OneWayRooms_Auto1A21DD2214DAD79D7C67B3EA00751A979.tmp' to '../../../../midterm_prototype/Saved/Autosaves/Game/L_OneWayRooms_Auto1.umap'
+[2026.01.15-01.18.53:237][179]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/L_OneWayRooms' took 0.065
+[2026.01.15-01.18.53:237][179]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.065
+[2026.01.15-01.18.53:237][179]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_GENERATED/40411/Box_F5991D1E] ([1] browsable assets)...
+[2026.01.15-01.18.53:238][179]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2026.01.15-01.18.53:460][179]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/_GENERATED/40411/Box_F5991D1E.Box_F5991D1E]
+[2026.01.15-01.18.53:461][179]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/40411/Box_F5991D1E]
+[2026.01.15-01.18.53:461][179]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_GENERATED/40411/Box_F5991D1E" FILE="../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Box_F5991D1E_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2026.01.15-01.18.53:477][179]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/40411/Box_F5991D1E_Auto1
+[2026.01.15-01.18.53:477][179]LogSavePackage: Moving '../../../../midterm_prototype/Saved/Box_F5991D1E_Auto193B56E0E46C0593D01B5CA877C68D568.tmp' to '../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Box_F5991D1E_Auto1.uasset'
+[2026.01.15-01.18.53:478][179]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_GENERATED/40411/Box_E760B9A7] ([1] browsable assets)...
+[2026.01.15-01.18.53:504][179]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/_GENERATED/40411/Box_E760B9A7.Box_E760B9A7]
+[2026.01.15-01.18.53:504][179]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/40411/Box_E760B9A7]
+[2026.01.15-01.18.53:504][179]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_GENERATED/40411/Box_E760B9A7" FILE="../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Box_E760B9A7_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2026.01.15-01.18.53:516][179]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/40411/Box_E760B9A7_Auto1
+[2026.01.15-01.18.53:516][179]LogSavePackage: Moving '../../../../midterm_prototype/Saved/Box_E760B9A7_Auto1147E9C4043C47E5CBE38A0AB4AE6EE27.tmp' to '../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Box_E760B9A7_Auto1.uasset'
+[2026.01.15-01.18.53:516][179]LogFileHelpers: Auto-saving content packages took 0.279
