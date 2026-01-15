@@ -1553,3 +1553,114 @@ Sampler Limit: 32
 [2026.01.15-19.47.12:892][292]LogMaterialEditor: Applying material dimond
 [2026.01.15-19.47.14:811][292]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
 [2026.01.15-19.47.15:995][292]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.01.15-19.48.00:235][568]LogMaterialEditor: Saving and Compiling material dimond
+[2026.01.15-19.48.00:238][568]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.15-19.48.00:261][568]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/dimond] ([1] browsable assets)...
+[2026.01.15-19.48.00:301][568]OBJ SavePackage:     Rendered thumbnail for [Material /Game/dimond.dimond]
+[2026.01.15-19.48.00:301][568]OBJ SavePackage: Finished generating thumbnails for package [/Game/dimond]
+[2026.01.15-19.48.00:301][568]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/dimond" FILE="../../../../midterm_prototype/Content/dimond.uasset" SILENT=true
+[2026.01.15-19.48.00:313][568]LogSavePackage: Moving output files for package: /Game/dimond
+[2026.01.15-19.48.00:313][568]LogSavePackage: Moving '../../../../midterm_prototype/Saved/dimondEF578E0E4825E02DF281CFB42D0086B0.tmp' to '../../../../midterm_prototype/Content/dimond.uasset'
+[2026.01.15-19.48.00:323][568]LogFileHelpers: InternalPromptForCheckoutAndSave took 85.357 ms
+[2026.01.15-19.48.00:359][568]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.15-19.48.00:359][568]LogContentValidation: Enabled validators:
+[2026.01.15-19.48.00:359][568]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.15-19.48.00:359][568]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.15-19.48.00:359][568]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.15-19.48.00:359][568]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.15-19.48.00:359][568]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.15-19.48.00:359][568]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.15-19.48.00:360][568]AssetCheck: /Game/dimond Validating asset
+[2026.01.15-19.48.00:382][568]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../midterm_prototype/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.15-19.48.17:039][543]LogContentBrowser: Deferred new asset file creation: dimond_Inst
+[2026.01.15-19.48.17:048][543]LogContentBrowser: Creating deferred item: dimond_Inst
+[2026.01.15-19.48.17:078][544]LogContentBrowser: Renaming the item being created (Deferred Item: dimond_Inst).
+[2026.01.15-19.48.28:301][217]LogContentBrowser: Attempting asset rename: dimond_Inst -> dimond_Inst
+[2026.01.15-19.48.28:302][217]LogContentBrowser: End creating deferred item dimond_Inst
+[2026.01.15-19.48.39:187][843]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/dimond_Inst.dimond_Inst
+[2026.01.15-19.48.39:189][843]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2026.01.15-19.48.39:853][844]LogPSOHitching: Encountered 300 PSO creation hitches so far (123 graphics, 177 compute). 0 of them were precached.
+[2026.01.15-19.48.51:757][451]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1561.790527
+[2026.01.15-19.48.51:856][457]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.15-19.48.51:856][457]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1561.874512, Update Interval: 322.896210
+[2026.01.15-19.49.00:317][965]LogShaderCompilers: Display: ================================================
+[2026.01.15-19.49.00:317][965]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.01.15-19.49.00:317][965]LogShaderCompilers: Display: Total job queries 615, among them cache hits 123 (20.00%), DDC hits 405 (65.85%), Duplicates 69 (11.22%)
+[2026.01.15-19.49.00:317][965]LogShaderCompilers: Display: Tracking 423 distinct input hashes that result in 313 distinct outputs (74.00%)
+[2026.01.15-19.49.00:317][965]LogShaderCompilers: Display: RAM used: 3.82 MiB of 1.60 GiB budget. Usage: 0.23%
+[2026.01.15-19.49.00:317][965]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.01.15-19.49.00:317][965]LogShaderCompilers: Display: Shaders Compiled: 18
+[2026.01.15-19.49.00:317][965]LogShaderCompilers: Display: Jobs assigned 18, completed 18 (100%)
+[2026.01.15-19.49.00:317][965]LogShaderCompilers: Display: Average time worker was idle: 209.99 s
+[2026.01.15-19.49.00:317][965]LogShaderCompilers: Display: Time job spent in pending queue: average 0.04 s, longest 0.07 s
+[2026.01.15-19.49.00:317][965]LogShaderCompilers: Display: Job execution time: average 1.16 s, max 2.90 s
+[2026.01.15-19.49.00:317][965]LogShaderCompilers: Display: Job life time (pending + execution): average 1.20 s, max 2.94
+[2026.01.15-19.49.00:317][965]LogShaderCompilers: Display: Shader code size: total 145.964 KiB, numShaders 18, average 8.108 KiB, min 4.277 KiB, max 11.358 KiB
+[2026.01.15-19.49.00:317][965]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 9.07 s
+[2026.01.15-19.49.00:317][965]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2026.01.15-19.49.00:317][965]LogShaderCompilers: Display: Jobs were issued in 18 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.01.15-19.49.00:317][965]LogShaderCompilers: Display: Average processing rate: 1.99 jobs/sec
+[2026.01.15-19.49.00:317][965]LogShaderCompilers: Display: Total thread time: 12.569 s
+[2026.01.15-19.49.00:317][965]LogShaderCompilers: Display: Total thread preprocess time: 8.419 s
+[2026.01.15-19.49.00:317][965]LogShaderCompilers: Display: Percentage time preprocessing: 66.98%
+[2026.01.15-19.49.00:317][965]LogShaderCompilers: Display: Effective parallelization: 1.39 (times faster than compiling all shaders on one thread). Compare with number of workers: 4 - 0.346581
+[2026.01.15-19.49.00:317][965]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.01.15-19.49.00:317][965]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    5 times, average 1.03 sec, max 1.22 sec, min 0.89 sec)
+[2026.01.15-19.49.00:317][965]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 0.86 sec, max 0.86 sec, min 0.86 sec)
+[2026.01.15-19.49.00:317][965]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    1 times, average 0.72 sec, max 0.72 sec, min 0.72 sec)
+[2026.01.15-19.49.00:317][965]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    5 times, average 0.63 sec, max 0.82 sec, min 0.50 sec)
+[2026.01.15-19.49.00:317][965]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    5 times, average 0.46 sec, max 0.62 sec, min 0.35 sec)
+[2026.01.15-19.49.00:317][965]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.01.15-19.49.00:317][965]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 41.05% of total time (compiled    5 times, average 1.03 sec, max 1.22 sec, min 0.89 sec)
+[2026.01.15-19.49.00:317][965]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 24.95% of total time (compiled    5 times, average 0.63 sec, max 0.82 sec, min 0.50 sec)
+[2026.01.15-19.49.00:317][965]LogShaderCompilers: Display:                                                 FLumenCardPS - 18.11% of total time (compiled    5 times, average 0.46 sec, max 0.62 sec, min 0.35 sec)
+[2026.01.15-19.49.00:317][965]LogShaderCompilers: Display:                                             FDebugViewModePS - 6.84% of total time (compiled    1 times, average 0.86 sec, max 0.86 sec, min 0.86 sec)
+[2026.01.15-19.49.00:317][965]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 5.70% of total time (compiled    1 times, average 0.72 sec, max 0.72 sec, min 0.72 sec)
+[2026.01.15-19.49.00:318][965]LogShaderCompilers: Display: === Material stats ===
+[2026.01.15-19.49.00:318][965]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.01.15-19.49.00:318][965]LogShaderCompilers: Display: Materials Translated:    232
+[2026.01.15-19.49.00:318][965]LogShaderCompilers: Display: Material Total Translate Time: 0.19 s
+[2026.01.15-19.49.00:318][965]LogShaderCompilers: Display: Material Translation Only: 0.08 s (43%)
+[2026.01.15-19.49.00:318][965]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.01.15-19.49.00:318][965]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.01.15-19.49.00:318][965]LogShaderCompilers: Display: ================================================
+[2026.01.15-19.49.28:917][369]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.01.15-19.50.46:979][778]LogSlate: Window 'Color Picker' being destroyed
+[2026.01.15-19.51.47:200][111]LogSlate: Window 'Color Picker' being destroyed
+[2026.01.15-19.52.37:794][130]LogSlate: Vector cache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 18418596125059864595
+[2026.01.15-19.52.37:794][130]LogSlate: Warning: Setting the threshold to trigger a flush to 2 non-atlased textures as there is a lot of font data being cached.
+[2026.01.15-19.52.37:806][130]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.15-19.52.46:494][638]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2026.01.15-19.52.46:497][638]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/L_OneWayRooms" FILE="../../../../midterm_prototype/Saved/Autosaves/Game/L_OneWayRooms_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2026.01.15-19.52.46:514][638]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/L_OneWayRooms_Auto1
+[2026.01.15-19.52.46:514][638]LogSavePackage: Moving '../../../../midterm_prototype/Saved/L_OneWayRooms_Auto1D143B41A4579412049270A939D1813FC.tmp' to '../../../../midterm_prototype/Saved/Autosaves/Game/L_OneWayRooms_Auto1.umap'
+[2026.01.15-19.52.46:516][638]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/L_OneWayRooms' took 0.071
+[2026.01.15-19.52.46:516][638]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.071
+[2026.01.15-19.52.46:516][638]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/dimond_Inst] ([1] browsable assets)...
+[2026.01.15-19.52.46:561][638]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/dimond_Inst.dimond_Inst]
+[2026.01.15-19.52.46:561][638]OBJ SavePackage: Finished generating thumbnails for package [/Game/dimond_Inst]
+[2026.01.15-19.52.46:561][638]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/dimond_Inst" FILE="../../../../midterm_prototype/Saved/Autosaves/Game/dimond_Inst_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2026.01.15-19.52.46:589][638]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2026.01.15-19.52.46:615][638]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2026.01.15-19.52.46:625][638]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/dimond_Inst_Auto1
+[2026.01.15-19.52.46:625][638]LogSavePackage: Moving '../../../../midterm_prototype/Saved/dimond_Inst_Auto12F5C2C0C44AA57C6469C43A6599FDD28.tmp' to '../../../../midterm_prototype/Saved/Autosaves/Game/dimond_Inst_Auto1.uasset'
+[2026.01.15-19.52.46:625][638]LogFileHelpers: Auto-saving content packages took 0.109
+[2026.01.15-19.54.45:262][753]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1915.292847
+[2026.01.15-19.54.45:362][759]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.15-19.54.45:362][759]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1915.376587, Update Interval: 345.349274
+[2026.01.15-20.01.04:886][518]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2294.924072
+[2026.01.15-20.01.04:985][524]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.15-20.01.04:985][524]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2295.006592, Update Interval: 338.222595
+[2026.01.15-20.07.27:197][267]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2677.240967
+[2026.01.15-20.07.28:194][270]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.15-20.07.28:194][270]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2677.903076, Update Interval: 318.902557
+[2026.01.15-20.13.21:260][329]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3031.301758
+[2026.01.15-20.13.22:261][332]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.15-20.13.22:261][332]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3031.967773, Update Interval: 318.062073
+[2026.01.15-20.54.28:589][681]LogAnalyticsSessionSummarySender: Sent summary session report for: AppId=UEEditor.Rocket.Release SessionId={245EFA36-4A75-B65F-F48E-CBAF78CF7AED}
+[2026.01.15-20.55.10:784][807]LogPSOHitching: Encountered 350 PSO creation hitches so far (153 graphics, 197 compute). 0 of them were precached.
+[2026.01.15-20.55.12:663][853]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5542.706543
+[2026.01.15-20.55.12:746][858]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.15-20.55.12:746][859]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5542.772461, Update Interval: 334.347961
+[2026.01.15-20.55.45:036][122]LogPSOHitching: Encountered 400 PSO creation hitches so far (184 graphics, 216 compute). 0 of them were precached.
+[2026.01.15-20.55.52:662][552]LogSlate: Window 'Color Picker' being destroyed
