@@ -2168,3 +2168,401 @@ Sampler Limit: 32
 [2026.01.15-23.14.48:964][285]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.01.15-23.14.48:964][285]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.01.15-23.14.48:964][285]AssetCheck: /Game/Blueprints/BP_Pendulum Validating asset
+[2026.01.15-23.16.17:357][750]LogEditorTransaction: Undo Make New Scene Root
+[2026.01.15-23.16.41:762][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2026.01.15-23.16.42:337][ 81]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.15-23.16.42:379][ 81]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Pendulum] ([2] browsable assets)...
+[2026.01.15-23.16.42:388][ 81]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Pendulum.BP_Pendulum]
+[2026.01.15-23.16.42:388][ 81]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Pendulum]
+[2026.01.15-23.16.42:388][ 81]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Pendulum" FILE="../../../../midterm_prototype/Content/Blueprints/BP_Pendulum.uasset" SILENT=true
+[2026.01.15-23.16.42:402][ 81]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Pendulum
+[2026.01.15-23.16.42:403][ 81]LogSavePackage: Moving '../../../../midterm_prototype/Saved/BP_Pendulum249FE5AA4AEC90DD11546BA42042D255.tmp' to '../../../../midterm_prototype/Content/Blueprints/BP_Pendulum.uasset'
+[2026.01.15-23.16.42:413][ 81]LogFileHelpers: InternalPromptForCheckoutAndSave took 75.399 ms (total: 689.838 ms)
+[2026.01.15-23.16.42:444][ 81]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.15-23.16.42:445][ 81]LogContentValidation: Enabled validators:
+[2026.01.15-23.16.42:445][ 81]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.15-23.16.42:445][ 81]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.15-23.16.42:445][ 81]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.15-23.16.42:445][ 81]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.15-23.16.42:445][ 81]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.15-23.16.42:445][ 81]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.15-23.16.42:445][ 81]AssetCheck: /Game/Blueprints/BP_Pendulum Validating asset
+[2026.01.15-23.17.34:703][ 39]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5764.008789
+[2026.01.15-23.17.34:804][ 45]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.15-23.17.34:804][ 45]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5764.091797, Update Interval: 315.661499
+[2026.01.15-23.18.30:097][183]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2026.01.15-23.18.30:809][223]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.15-23.18.30:842][223]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Pendulum] ([2] browsable assets)...
+[2026.01.15-23.18.30:882][223]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Pendulum.BP_Pendulum]
+[2026.01.15-23.18.30:882][223]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Pendulum]
+[2026.01.15-23.18.30:882][223]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Pendulum" FILE="../../../../midterm_prototype/Content/Blueprints/BP_Pendulum.uasset" SILENT=true
+[2026.01.15-23.18.30:896][223]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Pendulum
+[2026.01.15-23.18.30:897][223]LogSavePackage: Moving '../../../../midterm_prototype/Saved/BP_Pendulum14D649434586606B2A345A8CDAA68EE9.tmp' to '../../../../midterm_prototype/Content/Blueprints/BP_Pendulum.uasset'
+[2026.01.15-23.18.30:906][223]LogFileHelpers: InternalPromptForCheckoutAndSave took 97.126 ms (total: 786.965 ms)
+[2026.01.15-23.18.30:938][223]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.15-23.18.30:939][223]LogContentValidation: Enabled validators:
+[2026.01.15-23.18.30:939][223]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.15-23.18.30:939][223]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.15-23.18.30:939][223]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.15-23.18.30:939][223]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.15-23.18.30:939][223]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.15-23.18.30:939][223]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.15-23.18.30:939][223]AssetCheck: /Game/Blueprints/BP_Pendulum Validating asset
+[2026.01.15-23.19.20:248][151]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2026.01.15-23.19.20:975][189]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.15-23.19.21:014][189]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Pendulum] ([2] browsable assets)...
+[2026.01.15-23.19.21:057][189]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Pendulum.BP_Pendulum]
+[2026.01.15-23.19.21:057][189]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Pendulum]
+[2026.01.15-23.19.21:057][189]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Pendulum" FILE="../../../../midterm_prototype/Content/Blueprints/BP_Pendulum.uasset" SILENT=true
+[2026.01.15-23.19.21:071][189]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Pendulum
+[2026.01.15-23.19.21:071][189]LogSavePackage: Moving '../../../../midterm_prototype/Saved/BP_Pendulum80537D2D436504B3E27970A37A8F71D9.tmp' to '../../../../midterm_prototype/Content/Blueprints/BP_Pendulum.uasset'
+[2026.01.15-23.19.21:082][189]LogFileHelpers: InternalPromptForCheckoutAndSave took 107.305 ms (total: 894.270 ms)
+[2026.01.15-23.19.21:116][189]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.15-23.19.21:116][189]LogContentValidation: Enabled validators:
+[2026.01.15-23.19.21:116][189]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.15-23.19.21:116][189]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.15-23.19.21:116][189]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.15-23.19.21:116][189]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.15-23.19.21:116][189]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.15-23.19.21:116][189]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.15-23.19.21:116][189]AssetCheck: /Game/Blueprints/BP_Pendulum Validating asset
+[2026.01.15-23.20.46:928][327]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.15-23.20.46:967][327]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Pendulum] ([2] browsable assets)...
+[2026.01.15-23.20.46:967][327]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Pendulum]
+[2026.01.15-23.20.46:967][327]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Pendulum" FILE="../../../../midterm_prototype/Content/Blueprints/BP_Pendulum.uasset" SILENT=true
+[2026.01.15-23.20.46:981][327]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Pendulum
+[2026.01.15-23.20.46:981][327]LogSavePackage: Moving '../../../../midterm_prototype/Saved/BP_Pendulum29CCCCFD4BBBA1A94BD5E7B3530E545C.tmp' to '../../../../midterm_prototype/Content/Blueprints/BP_Pendulum.uasset'
+[2026.01.15-23.20.46:990][327]LogFileHelpers: InternalPromptForCheckoutAndSave took 61.747 ms (total: 956.018 ms)
+[2026.01.15-23.20.47:028][327]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.15-23.20.47:029][327]LogContentValidation: Enabled validators:
+[2026.01.15-23.20.47:029][327]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.15-23.20.47:029][327]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.15-23.20.47:029][327]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.15-23.20.47:029][327]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.15-23.20.47:029][327]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.15-23.20.47:029][327]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.15-23.20.47:029][327]AssetCheck: /Game/Blueprints/BP_Pendulum Validating asset
+[2026.01.15-23.20.47:969][375]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2026.01.15-23.21.41:900][499]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2026.01.15-23.21.42:520][533]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.15-23.21.42:551][533]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Pendulum] ([2] browsable assets)...
+[2026.01.15-23.21.42:592][533]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Pendulum.BP_Pendulum]
+[2026.01.15-23.21.42:592][533]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Pendulum]
+[2026.01.15-23.21.42:592][533]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Pendulum" FILE="../../../../midterm_prototype/Content/Blueprints/BP_Pendulum.uasset" SILENT=true
+[2026.01.15-23.21.42:606][533]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Pendulum
+[2026.01.15-23.21.42:606][533]LogSavePackage: Moving '../../../../midterm_prototype/Saved/BP_PendulumB24A531F40058ABF37E582B68B98E8E1.tmp' to '../../../../midterm_prototype/Content/Blueprints/BP_Pendulum.uasset'
+[2026.01.15-23.21.42:617][533]LogFileHelpers: InternalPromptForCheckoutAndSave took 97.232 ms (total: 1.05 sec)
+[2026.01.15-23.21.42:654][533]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.15-23.21.42:654][533]LogContentValidation: Enabled validators:
+[2026.01.15-23.21.42:654][533]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.15-23.21.42:654][533]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.15-23.21.42:654][533]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.15-23.21.42:654][533]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.15-23.21.42:654][533]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.15-23.21.42:654][533]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.15-23.21.42:654][533]AssetCheck: /Game/Blueprints/BP_Pendulum Validating asset
+[2026.01.15-23.21.49:875][843]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Pendulum.BP_Pendulum_C
+[2026.01.15-23.21.49:875][843]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Pendulum.BP_Pendulum_C
+[2026.01.15-23.21.49:878][843]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Pendulum.BP_Pendulum as actor: BP_Pendulum_C /Game/L_OneWayRooms.L_OneWayRooms:PersistentLevel.BP_Pendulum_C_0
+[2026.01.15-23.21.49:881][843]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Pendulum.BP_Pendulum as actor: BP_Pendulum_C /Game/L_OneWayRooms.L_OneWayRooms:PersistentLevel.BP_Pendulum_C_0
+[2026.01.15-23.21.49:900][844]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.01.15-23.21.51:062][888]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2026.01.15-23.21.51:094][888]LogEditorActor: Deleted 0 Actors (0.067 secs)
+[2026.01.15-23.21.51:104][888]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Pendulum.BP_Pendulum_C
+[2026.01.15-23.21.51:104][888]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Pendulum.BP_Pendulum_C
+[2026.01.15-23.21.51:110][888]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Pendulum.BP_Pendulum as actor: BP_Pendulum_C /Game/L_OneWayRooms.L_OneWayRooms:PersistentLevel.BP_Pendulum_C_1
+[2026.01.15-23.21.51:112][888]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Pendulum.BP_Pendulum as actor: BP_Pendulum_C /Game/L_OneWayRooms.L_OneWayRooms:PersistentLevel.BP_Pendulum_C_1
+[2026.01.15-23.23.41:012][155]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6130.321777
+[2026.01.15-23.23.41:093][160]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.15-23.23.41:093][160]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6130.387207, Update Interval: 323.634155
+[2026.01.15-23.25.21:951][946]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2026.01.15-23.25.22:550][974]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.15-23.25.22:591][974]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Pendulum] ([2] browsable assets)...
+[2026.01.15-23.25.22:630][974]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Pendulum.BP_Pendulum]
+[2026.01.15-23.25.22:630][974]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Pendulum]
+[2026.01.15-23.25.22:630][974]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Pendulum" FILE="../../../../midterm_prototype/Content/Blueprints/BP_Pendulum.uasset" SILENT=true
+[2026.01.15-23.25.22:645][974]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Pendulum
+[2026.01.15-23.25.22:646][974]LogSavePackage: Moving '../../../../midterm_prototype/Saved/BP_Pendulum39F4CFA3455DB5CE51ED759B221C5658.tmp' to '../../../../midterm_prototype/Content/Blueprints/BP_Pendulum.uasset'
+[2026.01.15-23.25.22:656][974]LogFileHelpers: InternalPromptForCheckoutAndSave took 106.813 ms (total: 1.16 sec)
+[2026.01.15-23.25.22:693][974]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.15-23.25.22:693][974]LogContentValidation: Enabled validators:
+[2026.01.15-23.25.22:693][974]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.15-23.25.22:693][974]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.15-23.25.22:693][974]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.15-23.25.22:693][974]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.15-23.25.22:693][974]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.15-23.25.22:693][974]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.15-23.25.22:693][974]AssetCheck: /Game/Blueprints/BP_Pendulum Validating asset
+[2026.01.15-23.26.04:150][354]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2026.01.15-23.26.04:155][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/L_OneWayRooms" FILE="../../../../midterm_prototype/Saved/Autosaves/Game/L_OneWayRooms_Auto7.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2026.01.15-23.26.04:174][354]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/L_OneWayRooms_Auto7
+[2026.01.15-23.26.04:174][354]LogSavePackage: Moving '../../../../midterm_prototype/Saved/L_OneWayRooms_Auto71A0246874AA21BF9A71EF19FB22CDD17.tmp' to '../../../../midterm_prototype/Saved/Autosaves/Game/L_OneWayRooms_Auto7.umap'
+[2026.01.15-23.26.04:176][354]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/L_OneWayRooms' took 0.058
+[2026.01.15-23.26.04:176][354]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.058
+[2026.01.15-23.26.04:176][354]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_GENERATED/40411/Box_3AF9FBE3] ([1] browsable assets)...
+[2026.01.15-23.26.04:176][354]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/40411/Box_3AF9FBE3]
+[2026.01.15-23.26.04:176][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_GENERATED/40411/Box_3AF9FBE3" FILE="../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Box_3AF9FBE3_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2026.01.15-23.26.04:188][354]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/40411/Box_3AF9FBE3_Auto7
+[2026.01.15-23.26.04:188][354]LogSavePackage: Moving '../../../../midterm_prototype/Saved/Box_3AF9FBE3_Auto70590ACD748FD1E907EAD659E2FBB2CDE.tmp' to '../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Box_3AF9FBE3_Auto7.uasset'
+[2026.01.15-23.26.04:188][354]LogFileHelpers: Auto-saving content packages took 0.012
+[2026.01.15-23.27.54:116][809]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2026.01.15-23.27.54:605][832]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.15-23.27.54:640][832]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Pendulum] ([2] browsable assets)...
+[2026.01.15-23.27.54:680][832]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Pendulum.BP_Pendulum]
+[2026.01.15-23.27.54:680][832]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Pendulum]
+[2026.01.15-23.27.54:680][832]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Pendulum" FILE="../../../../midterm_prototype/Content/Blueprints/BP_Pendulum.uasset" SILENT=true
+[2026.01.15-23.27.54:697][832]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Pendulum
+[2026.01.15-23.27.54:698][832]LogSavePackage: Moving '../../../../midterm_prototype/Saved/BP_PendulumEFE1EBC54056AE82CE94BC9BFB4AF572.tmp' to '../../../../midterm_prototype/Content/Blueprints/BP_Pendulum.uasset'
+[2026.01.15-23.27.54:708][832]LogFileHelpers: InternalPromptForCheckoutAndSave took 102.819 ms (total: 1.26 sec)
+[2026.01.15-23.27.54:740][832]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.15-23.27.54:740][832]LogContentValidation: Enabled validators:
+[2026.01.15-23.27.54:740][832]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.15-23.27.54:740][832]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.15-23.27.54:740][832]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.15-23.27.54:740][832]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.15-23.27.54:740][832]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.15-23.27.54:740][832]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.15-23.27.54:740][832]AssetCheck: /Game/Blueprints/BP_Pendulum Validating asset
+[2026.01.15-23.29.37:614][908]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6486.928223
+[2026.01.15-23.29.37:713][914]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.15-23.29.37:713][914]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6487.009277, Update Interval: 328.243042
+[2026.01.15-23.30.21:456][506]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2026.01.15-23.30.22:132][540]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.15-23.30.22:173][540]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Pendulum] ([2] browsable assets)...
+[2026.01.15-23.30.22:213][540]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Pendulum.BP_Pendulum]
+[2026.01.15-23.30.22:213][540]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Pendulum]
+[2026.01.15-23.30.22:213][540]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Pendulum" FILE="../../../../midterm_prototype/Content/Blueprints/BP_Pendulum.uasset" SILENT=true
+[2026.01.15-23.30.22:230][540]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Pendulum
+[2026.01.15-23.30.22:230][540]LogSavePackage: Moving '../../../../midterm_prototype/Saved/BP_Pendulum3275B808492B1EA168934BBD71FF3D24.tmp' to '../../../../midterm_prototype/Content/Blueprints/BP_Pendulum.uasset'
+[2026.01.15-23.30.22:242][540]LogFileHelpers: InternalPromptForCheckoutAndSave took 110.601 ms (total: 1.37 sec)
+[2026.01.15-23.30.22:276][540]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.15-23.30.22:276][540]LogContentValidation: Enabled validators:
+[2026.01.15-23.30.22:276][540]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.15-23.30.22:276][540]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.15-23.30.22:276][540]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.15-23.30.22:276][540]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.15-23.30.22:276][540]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.15-23.30.22:276][540]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.15-23.30.22:277][540]AssetCheck: /Game/Blueprints/BP_Pendulum Validating asset
+[2026.01.15-23.30.28:702][918]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.15-23.30.28:711][918]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.15-23.30.28:712][918]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_L_OneWayRooms
+[2026.01.15-23.30.28:717][918]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004860s)
+[2026.01.15-23.30.28:717][918]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/L_OneWayRooms.L_OneWayRooms to /Game/UEDPIE_0_L_OneWayRooms.L_OneWayRooms (0.004928s)
+[2026.01.15-23.30.28:747][918]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2026.01.15-23.30.28:749][918]LogChaosDD: Creating Chaos Debug Draw Scene for world L_OneWayRooms
+[2026.01.15-23.30.28:752][918]LogPlayLevel: PIE: World Init took: (0.002205s)
+[2026.01.15-23.30.28:753][918]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2026.01.15-23.30.28:753][918]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.15-23.30.28:753][918]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.15-23.30.28:753][918]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.15-23.30.28:753][918]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.15-23.30.28:753][918]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.15-23.30.28:753][918]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.15-23.30.28:753][918]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.15-23.30.28:753][918]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.15-23.30.28:753][918]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.15-23.30.28:753][918]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.15-23.30.28:753][918]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.15-23.30.28:756][918]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.15-23.30.28:781][918]LogAudioMixer: Display: Using Audio Hardware Device Surface Omnisonic Speakers (Surface High Definition Audio)
+[2026.01.15-23.30.28:782][918]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.15-23.30.28:782][918]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.15-23.30.28:782][918]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.15-23.30.28:782][918]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2026.01.15-23.30.28:782][918]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2026.01.15-23.30.28:786][918]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2026.01.15-23.30.28:786][918]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2026.01.15-23.30.28:786][918]LogInit: FAudioDevice initialized with ID 4.
+[2026.01.15-23.30.28:786][918]LogAudio: Display: Audio Device (ID: 4) registered with world 'L_OneWayRooms'.
+[2026.01.15-23.30.28:786][918]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2026.01.15-23.30.28:792][918]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.01.15-23.30.28:794][918]LogWorld: Bringing World /Game/UEDPIE_0_L_OneWayRooms.L_OneWayRooms up for play (max tick rate 60) at 2026.01.15-18.30.28
+[2026.01.15-23.30.28:795][918]LogWorld: Bringing up level for play took: 0.002266
+[2026.01.15-23.30.28:798][918]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2026.01.15-23.30.28:798][918]LogVoiceEncode: Display: EncoderVersion: libopus unknown
+[2026.01.15-23.30.28:798][918]LogOnlineVoice: OSS: StartLocalProcessing(0) returned 0xFFFFFFFF
+[2026.01.15-23.30.28:798][918]LogOnlineVoice: OSS: Starting networked voice for user: 0
+[2026.01.15-23.30.28:805][918]PIE: Server logged in
+[2026.01.15-23.30.28:808][918]PIE: Play in editor total start time 0.1 seconds.
+[2026.01.15-23.30.28:875][919]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.01.15-23.30.39:811][571]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.15-23.30.39:811][571]LogWorld: BeginTearingDown for /Game/UEDPIE_0_L_OneWayRooms
+[2026.01.15-23.30.39:811][571]LogWorld: UWorld::CleanupWorld for L_OneWayRooms, bSessionEnded=true, bCleanupResources=true
+[2026.01.15-23.30.39:812][571]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.15-23.30.39:817][571]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.15-23.30.39:825][571]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.15-23.30.39:857][571]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.15-23.30.39:857][571]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2026.01.15-23.30.39:857][571]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=4
+[2026.01.15-23.30.39:860][571]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=2
+[2026.01.15-23.30.39:870][571]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2026.01.15-23.30.39:930][572]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2026.01.15-23.32.20:280][241]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'Graph.Node.Comment.TextColor'.'
+[2026.01.15-23.35.39:663][887]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6848.980469
+[2026.01.15-23.35.39:748][892]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.15-23.35.39:748][892]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6849.047852, Update Interval: 303.259369
+[2026.01.15-23.38.18:020][  6]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2026.01.15-23.38.18:628][ 38]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.15-23.38.18:663][ 38]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Pendulum] ([2] browsable assets)...
+[2026.01.15-23.38.18:703][ 38]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Pendulum.BP_Pendulum]
+[2026.01.15-23.38.18:703][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Pendulum]
+[2026.01.15-23.38.18:703][ 38]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Pendulum" FILE="../../../../midterm_prototype/Content/Blueprints/BP_Pendulum.uasset" SILENT=true
+[2026.01.15-23.38.18:719][ 38]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Pendulum
+[2026.01.15-23.38.18:719][ 38]LogSavePackage: Moving '../../../../midterm_prototype/Saved/BP_Pendulum5A10BE9A4EF1A058AFF48792D32B52CB.tmp' to '../../../../midterm_prototype/Content/Blueprints/BP_Pendulum.uasset'
+[2026.01.15-23.38.18:731][ 38]LogFileHelpers: InternalPromptForCheckoutAndSave took 104.242 ms (total: 1.47 sec)
+[2026.01.15-23.38.18:766][ 38]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.15-23.38.18:766][ 38]LogContentValidation: Enabled validators:
+[2026.01.15-23.38.18:766][ 38]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.15-23.38.18:766][ 38]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.15-23.38.18:767][ 38]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.15-23.38.18:767][ 38]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.15-23.38.18:767][ 38]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.15-23.38.18:767][ 38]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.15-23.38.18:767][ 38]AssetCheck: /Game/Blueprints/BP_Pendulum Validating asset
+[2026.01.15-23.39.09:416][927]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2026.01.15-23.39.09:898][950]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.15-23.39.09:934][950]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Pendulum] ([2] browsable assets)...
+[2026.01.15-23.39.09:975][950]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Pendulum.BP_Pendulum]
+[2026.01.15-23.39.09:975][950]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Pendulum]
+[2026.01.15-23.39.09:975][950]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Pendulum" FILE="../../../../midterm_prototype/Content/Blueprints/BP_Pendulum.uasset" SILENT=true
+[2026.01.15-23.39.09:992][950]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Pendulum
+[2026.01.15-23.39.09:992][950]LogSavePackage: Moving '../../../../midterm_prototype/Saved/BP_PendulumCFF3BC5848C46C81EFC43F948683F93D.tmp' to '../../../../midterm_prototype/Content/Blueprints/BP_Pendulum.uasset'
+[2026.01.15-23.39.10:004][950]LogFileHelpers: InternalPromptForCheckoutAndSave took 106.645 ms (total: 1.58 sec)
+[2026.01.15-23.39.10:051][950]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.15-23.39.10:051][950]LogContentValidation: Enabled validators:
+[2026.01.15-23.39.10:051][950]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.15-23.39.10:051][950]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.15-23.39.10:051][950]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.15-23.39.10:051][950]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.15-23.39.10:051][950]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.15-23.39.10:051][950]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.15-23.39.10:052][950]AssetCheck: /Game/Blueprints/BP_Pendulum Validating asset
+[2026.01.15-23.39.35:239][377]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2026.01.15-23.39.35:243][377]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/L_OneWayRooms" FILE="../../../../midterm_prototype/Saved/Autosaves/Game/L_OneWayRooms_Auto8.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2026.01.15-23.39.35:262][377]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/L_OneWayRooms_Auto8
+[2026.01.15-23.39.35:262][377]LogSavePackage: Moving '../../../../midterm_prototype/Saved/L_OneWayRooms_Auto8391537DC4E861BEB09E88A9F74577690.tmp' to '../../../../midterm_prototype/Saved/Autosaves/Game/L_OneWayRooms_Auto8.umap'
+[2026.01.15-23.39.35:263][377]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/L_OneWayRooms' took 0.054
+[2026.01.15-23.39.35:263][377]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.054
+[2026.01.15-23.39.35:264][377]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Pendulum] ([2] browsable assets)...
+[2026.01.15-23.39.35:308][377]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Pendulum.BP_Pendulum]
+[2026.01.15-23.39.35:308][377]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Pendulum]
+[2026.01.15-23.39.35:308][377]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Pendulum" FILE="../../../../midterm_prototype/Saved/Autosaves/Game/Blueprints/BP_Pendulum_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2026.01.15-23.39.35:323][377]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_Pendulum_Auto8
+[2026.01.15-23.39.35:323][377]LogSavePackage: Moving '../../../../midterm_prototype/Saved/BP_Pendulum_Auto87A69FF8F41957D2DC4025BB4CD8034E4.tmp' to '../../../../midterm_prototype/Saved/Autosaves/Game/Blueprints/BP_Pendulum_Auto8.uasset'
+[2026.01.15-23.39.35:323][377]LogFileHelpers: Auto-saving content packages took 0.059
+[2026.01.15-23.41.06:126][692]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2026.01.15-23.41.06:702][722]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.15-23.41.06:736][722]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Pendulum] ([2] browsable assets)...
+[2026.01.15-23.41.06:777][722]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Pendulum.BP_Pendulum]
+[2026.01.15-23.41.06:777][722]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Pendulum]
+[2026.01.15-23.41.06:777][722]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Pendulum" FILE="../../../../midterm_prototype/Content/Blueprints/BP_Pendulum.uasset" SILENT=true
+[2026.01.15-23.41.06:792][722]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Pendulum
+[2026.01.15-23.41.06:792][722]LogSavePackage: Moving '../../../../midterm_prototype/Saved/BP_Pendulum0C6654204601BA447DA000833F55BFCB.tmp' to '../../../../midterm_prototype/Content/Blueprints/BP_Pendulum.uasset'
+[2026.01.15-23.41.06:805][722]LogFileHelpers: InternalPromptForCheckoutAndSave took 102.791 ms (total: 1.68 sec)
+[2026.01.15-23.41.06:832][722]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.15-23.41.06:832][722]LogContentValidation: Enabled validators:
+[2026.01.15-23.41.06:833][722]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.15-23.41.06:833][722]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.15-23.41.06:833][722]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.15-23.41.06:833][722]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.15-23.41.06:833][722]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.15-23.41.06:833][722]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.15-23.41.06:833][722]AssetCheck: /Game/Blueprints/BP_Pendulum Validating asset
+[2026.01.15-23.41.39:310][570]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7208.582031
+[2026.01.15-23.41.39:410][576]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.15-23.41.39:410][576]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7208.665039, Update Interval: 305.442047
+[2026.01.15-23.42.06:364][163]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2026.01.15-23.42.06:940][191]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.15-23.42.06:974][191]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Pendulum] ([2] browsable assets)...
+[2026.01.15-23.42.07:012][191]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Pendulum.BP_Pendulum]
+[2026.01.15-23.42.07:012][191]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Pendulum]
+[2026.01.15-23.42.07:012][191]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Pendulum" FILE="../../../../midterm_prototype/Content/Blueprints/BP_Pendulum.uasset" SILENT=true
+[2026.01.15-23.42.07:031][191]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Pendulum
+[2026.01.15-23.42.07:032][191]LogSavePackage: Moving '../../../../midterm_prototype/Saved/BP_PendulumF1E9ED1B4A8E19BBDFB015982BA355CF.tmp' to '../../../../midterm_prototype/Content/Blueprints/BP_Pendulum.uasset'
+[2026.01.15-23.42.07:046][191]LogFileHelpers: InternalPromptForCheckoutAndSave took 106.092 ms (total: 1.79 sec)
+[2026.01.15-23.42.07:085][191]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.15-23.42.07:085][191]LogContentValidation: Enabled validators:
+[2026.01.15-23.42.07:085][191]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.15-23.42.07:085][191]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.15-23.42.07:085][191]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.15-23.42.07:085][191]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.15-23.42.07:085][191]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.15-23.42.07:085][191]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.15-23.42.07:085][191]AssetCheck: /Game/Blueprints/BP_Pendulum Validating asset
+[2026.01.15-23.42.23:542][160]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.15-23.42.23:581][160]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Pendulum] ([2] browsable assets)...
+[2026.01.15-23.42.23:581][160]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Pendulum]
+[2026.01.15-23.42.23:581][160]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Pendulum" FILE="../../../../midterm_prototype/Content/Blueprints/BP_Pendulum.uasset" SILENT=true
+[2026.01.15-23.42.23:597][160]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Pendulum
+[2026.01.15-23.42.23:597][160]LogSavePackage: Moving '../../../../midterm_prototype/Saved/BP_PendulumB517F60B437D27A58697198A827212E4.tmp' to '../../../../midterm_prototype/Content/Blueprints/BP_Pendulum.uasset'
+[2026.01.15-23.42.23:608][160]LogFileHelpers: InternalPromptForCheckoutAndSave took 66.857 ms (total: 1.86 sec)
+[2026.01.15-23.42.23:635][160]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.15-23.42.23:635][160]LogContentValidation: Enabled validators:
+[2026.01.15-23.42.23:635][160]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.15-23.42.23:635][160]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.15-23.42.23:635][160]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.15-23.42.23:635][160]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.15-23.42.23:635][160]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.15-23.42.23:635][160]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.15-23.42.23:635][160]AssetCheck: /Game/Blueprints/BP_Pendulum Validating asset
+[2026.01.15-23.42.28:521][444]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.15-23.42.28:527][444]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.15-23.42.28:527][444]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_L_OneWayRooms
+[2026.01.15-23.42.28:532][444]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004243s)
+[2026.01.15-23.42.28:532][444]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/L_OneWayRooms.L_OneWayRooms to /Game/UEDPIE_0_L_OneWayRooms.L_OneWayRooms (0.004295s)
+[2026.01.15-23.42.28:563][444]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2026.01.15-23.42.28:565][444]LogChaosDD: Creating Chaos Debug Draw Scene for world L_OneWayRooms
+[2026.01.15-23.42.28:567][444]LogPlayLevel: PIE: World Init took: (0.002091s)
+[2026.01.15-23.42.28:568][444]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2026.01.15-23.42.28:568][444]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.15-23.42.28:568][444]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.15-23.42.28:568][444]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.15-23.42.28:568][444]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.15-23.42.28:568][444]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.15-23.42.28:568][444]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.15-23.42.28:568][444]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.15-23.42.28:568][444]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.15-23.42.28:568][444]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.15-23.42.28:568][444]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.15-23.42.28:568][444]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.15-23.42.28:571][444]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.15-23.42.28:599][444]LogAudioMixer: Display: Using Audio Hardware Device Surface Omnisonic Speakers (Surface High Definition Audio)
+[2026.01.15-23.42.28:599][444]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.15-23.42.28:599][444]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.15-23.42.28:599][444]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.15-23.42.28:600][444]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2026.01.15-23.42.28:600][444]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2026.01.15-23.42.28:604][444]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2026.01.15-23.42.28:604][444]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2026.01.15-23.42.28:604][444]LogInit: FAudioDevice initialized with ID 5.
+[2026.01.15-23.42.28:604][444]LogAudio: Display: Audio Device (ID: 5) registered with world 'L_OneWayRooms'.
+[2026.01.15-23.42.28:604][444]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2026.01.15-23.42.28:609][444]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.01.15-23.42.28:612][444]LogWorld: Bringing World /Game/UEDPIE_0_L_OneWayRooms.L_OneWayRooms up for play (max tick rate 60) at 2026.01.15-18.42.28
+[2026.01.15-23.42.28:612][444]LogWorld: Bringing up level for play took: 0.002622
+[2026.01.15-23.42.28:615][444]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2026.01.15-23.42.28:616][444]LogVoiceEncode: Display: EncoderVersion: libopus unknown
+[2026.01.15-23.42.28:616][444]LogOnlineVoice: OSS: StartLocalProcessing(0) returned 0xFFFFFFFF
+[2026.01.15-23.42.28:616][444]LogOnlineVoice: OSS: Starting networked voice for user: 0
+[2026.01.15-23.42.28:622][444]PIE: Server logged in
+[2026.01.15-23.42.28:625][444]PIE: Play in editor total start time 0.098 seconds.
+[2026.01.15-23.42.28:693][445]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.01.15-23.43.02:680][480]Set new viewmode: Wireframe
+[2026.01.15-23.43.02:721][480]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.15-23.43.02:721][480]LogWorld: BeginTearingDown for /Game/UEDPIE_0_L_OneWayRooms
+[2026.01.15-23.43.02:721][480]LogWorld: UWorld::CleanupWorld for L_OneWayRooms, bSessionEnded=true, bCleanupResources=true
+[2026.01.15-23.43.02:722][480]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.15-23.43.03:085][480]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.15-23.43.03:093][480]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.15-23.43.03:129][480]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.15-23.43.03:129][480]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2026.01.15-23.43.03:129][480]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=4
+[2026.01.15-23.43.03:133][480]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=2
+[2026.01.15-23.43.03:145][480]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2026.01.15-23.43.03:283][481]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2026.01.15-23.43.21:711][482]LogDerivedDataCache: C:/Users/40411/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
