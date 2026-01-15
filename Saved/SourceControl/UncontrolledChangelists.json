@@ -19,7 +19,11 @@
 				"D:/unreal engine/midterm_prototype/Content/LevelPrototyping/Interactable/JumpPad/Assets/Meshes/SM_CircularBand.uasset",
 				"D:/unreal engine/midterm_prototype/Content/LevelPrototyping/Interactable/JumpPad/Assets/Meshes/SM_CircularGlow.uasset",
 				"D:/unreal engine/midterm_prototype/Content/LevelPrototyping/Meshes/SM_SM_ChamferCube.uasset",
-				"D:/unreal engine/midterm_prototype/Content/dimond.uasset"
+				"D:/unreal engine/midterm_prototype/Content/dimond.uasset",
+				"D:/unreal engine/midterm_prototype/Content/dimond_Inst.uasset",
+				"D:/unreal engine/midterm_prototype/Content/Material/dimond.uasset",
+				"D:/unreal engine/midterm_prototype/Content/Material/dimond_Inst.uasset",
+				"D:/unreal engine/midterm_prototype/Content/Material/MAT_Shinny.uasset"
 			]
 		}
 	]
