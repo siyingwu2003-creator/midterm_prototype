@@ -2294,3 +2294,855 @@ The following settings have been applied:
 [2026.01.15-02.16.40:223][850]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/40411/Box_857B5FE9_Auto5
 [2026.01.15-02.16.40:223][850]LogSavePackage: Moving '../../../../midterm_prototype/Saved/Box_857B5FE9_Auto53C064D104A2A20031EF7529D3FE4232B.tmp' to '../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Box_857B5FE9_Auto5.uasset'
 [2026.01.15-02.16.40:224][850]LogFileHelpers: Auto-saving content packages took 0.219
+[2026.01.15-02.17.55:415][666]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.15-02.17.55:451][666]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/L_OneWayRooms" FILE="../../../../midterm_prototype/Content/L_OneWayRooms.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.01.15-02.17.55:497][666]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.01.15-02.17.55:515][666]LogSavePackage: Moving output files for package: /Game/L_OneWayRooms
+[2026.01.15-02.17.55:515][666]LogSavePackage: Moving '../../../../midterm_prototype/Saved/L_OneWayRooms7A6B9A9B47E5105573D730AFC6884A39.tmp' to '../../../../midterm_prototype/Content/L_OneWayRooms.umap'
+[2026.01.15-02.17.55:529][666]LogFileHelpers: Saving map 'L_OneWayRooms' took 0.078
+[2026.01.15-02.17.55:540][666]LogFileHelpers: InternalPromptForCheckoutAndSave took 125.001 ms
+[2026.01.15-02.17.55:577][666]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.15-02.17.55:577][666]LogContentValidation: Enabled validators:
+[2026.01.15-02.17.55:578][666]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.15-02.17.55:578][666]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.15-02.17.55:578][666]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.15-02.17.55:578][666]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.15-02.17.55:578][666]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.15-02.17.55:578][666]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.15-02.17.55:579][666]AssetCheck: /Game/L_OneWayRooms Validating asset
+[2026.01.15-02.17.58:661][849]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.StaticMeshActor
+[2026.01.15-02.17.58:661][849]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.StaticMeshActor
+[2026.01.15-02.17.58:662][849]LogActorFactory: Actor Factory spawned Class /Script/Engine.StaticMeshActor as actor: StaticMeshActor /Game/L_OneWayRooms.L_OneWayRooms:PersistentLevel.StaticMeshActor_9
+[2026.01.15-02.17.58:662][849]LogActorFactory: Actor Factory spawned Class /Script/Engine.StaticMeshActor as actor: StaticMeshActor /Game/L_OneWayRooms.L_OneWayRooms:PersistentLevel.StaticMeshActor_9
+[2026.01.15-02.18.01:645][ 18]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.15-02.18.01:676][ 18]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/L_OneWayRooms" FILE="../../../../midterm_prototype/Content/L_OneWayRooms.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.01.15-02.18.01:716][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.01.15-02.18.01:734][ 18]LogSavePackage: Moving output files for package: /Game/L_OneWayRooms
+[2026.01.15-02.18.01:734][ 18]LogSavePackage: Moving '../../../../midterm_prototype/Saved/L_OneWayRooms21C772D04D190D9D0A807D81B10CE578.tmp' to '../../../../midterm_prototype/Content/L_OneWayRooms.umap'
+[2026.01.15-02.18.01:745][ 18]LogFileHelpers: Saving map 'L_OneWayRooms' took 0.069
+[2026.01.15-02.18.01:768][ 18]LogFileHelpers: InternalPromptForCheckoutAndSave took 121.784 ms (total: 246.786 ms)
+[2026.01.15-02.18.01:801][ 18]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.15-02.18.01:801][ 18]LogContentValidation: Enabled validators:
+[2026.01.15-02.18.01:801][ 18]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.15-02.18.01:801][ 18]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.15-02.18.01:801][ 18]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.15-02.18.01:801][ 18]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.15-02.18.01:801][ 18]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.15-02.18.01:801][ 18]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.15-02.18.01:802][ 18]AssetCheck: /Game/L_OneWayRooms Validating asset
+[2026.01.15-02.18.02:380][ 52]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.StaticMeshActor
+[2026.01.15-02.18.02:380][ 52]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.StaticMeshActor
+[2026.01.15-02.18.02:381][ 52]LogActorFactory: Actor Factory spawned Class /Script/Engine.StaticMeshActor as actor: StaticMeshActor /Game/L_OneWayRooms.L_OneWayRooms:PersistentLevel.StaticMeshActor_10
+[2026.01.15-02.18.02:381][ 52]LogActorFactory: Actor Factory spawned Class /Script/Engine.StaticMeshActor as actor: StaticMeshActor /Game/L_OneWayRooms.L_OneWayRooms:PersistentLevel.StaticMeshActor_10
+[2026.01.15-02.18.03:787][127]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.15-02.18.03:822][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/L_OneWayRooms" FILE="../../../../midterm_prototype/Content/L_OneWayRooms.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.01.15-02.18.03:866][127]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.01.15-02.18.03:889][127]LogSavePackage: Moving output files for package: /Game/L_OneWayRooms
+[2026.01.15-02.18.03:889][127]LogSavePackage: Moving '../../../../midterm_prototype/Saved/L_OneWayRoomsE55FFF694177141613893385141F8F82.tmp' to '../../../../midterm_prototype/Content/L_OneWayRooms.umap'
+[2026.01.15-02.18.03:897][127]LogFileHelpers: Saving map 'L_OneWayRooms' took 0.076
+[2026.01.15-02.18.03:908][127]LogFileHelpers: InternalPromptForCheckoutAndSave took 121.488 ms (total: 368.274 ms)
+[2026.01.15-02.18.03:931][127]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.15-02.18.03:931][127]LogContentValidation: Enabled validators:
+[2026.01.15-02.18.03:931][127]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.15-02.18.03:931][127]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.15-02.18.03:931][127]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.15-02.18.03:931][127]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.15-02.18.03:931][127]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.15-02.18.03:931][127]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.15-02.18.03:931][127]AssetCheck: /Game/L_OneWayRooms Validating asset
+[2026.01.15-02.18.06:888][300]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.StaticMeshActor
+[2026.01.15-02.18.06:888][300]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.StaticMeshActor
+[2026.01.15-02.18.06:890][300]LogActorFactory: Actor Factory spawned Class /Script/Engine.StaticMeshActor as actor: StaticMeshActor /Game/L_OneWayRooms.L_OneWayRooms:PersistentLevel.StaticMeshActor_11
+[2026.01.15-02.18.06:891][300]LogActorFactory: Actor Factory spawned Class /Script/Engine.StaticMeshActor as actor: StaticMeshActor /Game/L_OneWayRooms.L_OneWayRooms:PersistentLevel.StaticMeshActor_11
+[2026.01.15-02.18.07:275][317]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11534.293945
+[2026.01.15-02.18.07:376][323]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.15-02.18.07:376][323]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11534.375977, Update Interval: 352.181152
+[2026.01.15-02.18.09:447][444]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.15-02.18.09:484][444]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/L_OneWayRooms" FILE="../../../../midterm_prototype/Content/L_OneWayRooms.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.01.15-02.18.09:529][444]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2026.01.15-02.18.09:547][444]LogSavePackage: Moving output files for package: /Game/L_OneWayRooms
+[2026.01.15-02.18.09:547][444]LogSavePackage: Moving '../../../../midterm_prototype/Saved/L_OneWayRooms210EA6FF42F9D5CAB94BE687537BAFBB.tmp' to '../../../../midterm_prototype/Content/L_OneWayRooms.umap'
+[2026.01.15-02.18.09:555][444]LogFileHelpers: Saving map 'L_OneWayRooms' took 0.073
+[2026.01.15-02.18.09:578][444]LogFileHelpers: InternalPromptForCheckoutAndSave took 131.475 ms (total: 499.750 ms)
+[2026.01.15-02.18.09:616][444]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.15-02.18.09:616][444]LogContentValidation: Enabled validators:
+[2026.01.15-02.18.09:616][444]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.15-02.18.09:616][444]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.15-02.18.09:616][444]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.15-02.18.09:616][444]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.15-02.18.09:616][444]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.15-02.18.09:616][444]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.15-02.18.09:616][444]AssetCheck: /Game/L_OneWayRooms Validating asset
+[2026.01.15-02.19.07:010][837]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.15-02.19.07:045][837]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/L_OneWayRooms" FILE="../../../../midterm_prototype/Content/L_OneWayRooms.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.01.15-02.19.07:091][837]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2026.01.15-02.19.07:109][837]LogSavePackage: Moving output files for package: /Game/L_OneWayRooms
+[2026.01.15-02.19.07:109][837]LogSavePackage: Moving '../../../../midterm_prototype/Saved/L_OneWayRooms58D70BBB4C221F0BB23DEF85F7B53FE7.tmp' to '../../../../midterm_prototype/Content/L_OneWayRooms.umap'
+[2026.01.15-02.19.07:118][837]LogFileHelpers: Saving map 'L_OneWayRooms' took 0.073
+[2026.01.15-02.19.07:139][837]LogFileHelpers: InternalPromptForCheckoutAndSave took 128.175 ms (total: 627.925 ms)
+[2026.01.15-02.19.07:171][837]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.15-02.19.07:171][837]LogContentValidation: Enabled validators:
+[2026.01.15-02.19.07:171][837]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.15-02.19.07:171][837]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.15-02.19.07:171][837]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.15-02.19.07:171][837]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.15-02.19.07:171][837]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.15-02.19.07:171][837]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.15-02.19.07:171][837]AssetCheck: /Game/L_OneWayRooms Validating asset
+[2026.01.15-02.19.11:962][109]Cmd: POLY SELECT ALL
+[2026.01.15-02.19.18:236][469]Cmd: POLY SELECT ALL
+[2026.01.15-02.19.20:478][598]Cmd: POLY SELECT ALL
+[2026.01.15-02.19.40:126][761]Cmd: DELETE
+[2026.01.15-02.19.40:127][761]Cmd: ACTOR DELETE
+[2026.01.15-02.19.40:130][761]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.15-02.19.40:163][761]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2026.01.15-02.19.40:166][761]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2026.01.15-02.19.41:024][806]Cmd: DELETE
+[2026.01.15-02.19.41:024][806]Cmd: ACTOR DELETE
+[2026.01.15-02.19.41:027][806]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.15-02.19.41:053][806]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2026.01.15-02.19.41:055][806]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2026.01.15-02.20.08:099][365]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.15-02.20.08:105][365]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.15-02.20.08:105][365]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_L_OneWayRooms
+[2026.01.15-02.20.08:108][365]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002778s)
+[2026.01.15-02.20.08:108][365]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/L_OneWayRooms.L_OneWayRooms to /Game/UEDPIE_0_L_OneWayRooms.L_OneWayRooms (0.002822s)
+[2026.01.15-02.20.08:137][365]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2026.01.15-02.20.08:139][365]LogChaosDD: Creating Chaos Debug Draw Scene for world L_OneWayRooms
+[2026.01.15-02.20.08:141][365]LogPlayLevel: PIE: World Init took: (0.002052s)
+[2026.01.15-02.20.08:142][365]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2026.01.15-02.20.08:142][365]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.15-02.20.08:142][365]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.15-02.20.08:142][365]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.15-02.20.08:142][365]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.15-02.20.08:142][365]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.15-02.20.08:142][365]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.15-02.20.08:142][365]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.15-02.20.08:142][365]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.15-02.20.08:142][365]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.15-02.20.08:142][365]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.15-02.20.08:142][365]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.15-02.20.08:145][365]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.15-02.20.08:172][365]LogAudioMixer: Display: Using Audio Hardware Device Surface Omnisonic Speakers (Surface High Definition Audio)
+[2026.01.15-02.20.08:173][365]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.15-02.20.08:173][365]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.15-02.20.08:173][365]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.15-02.20.08:174][365]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2026.01.15-02.20.08:174][365]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2026.01.15-02.20.08:177][365]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2026.01.15-02.20.08:177][365]LogInit: FAudioDevice initialized with ID 5.
+[2026.01.15-02.20.08:177][365]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2026.01.15-02.20.08:177][365]LogAudio: Display: Audio Device (ID: 5) registered with world 'L_OneWayRooms'.
+[2026.01.15-02.20.08:177][365]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2026.01.15-02.20.08:181][365]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.01.15-02.20.08:183][365]LogWorld: Bringing World /Game/UEDPIE_0_L_OneWayRooms.L_OneWayRooms up for play (max tick rate 60) at 2026.01.14-21.20.08
+[2026.01.15-02.20.08:183][365]LogWorld: Bringing up level for play took: 0.001716
+[2026.01.15-02.20.08:186][365]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2026.01.15-02.20.08:187][365]LogVoiceEncode: Display: EncoderVersion: libopus unknown
+[2026.01.15-02.20.08:187][365]LogOnlineVoice: OSS: StartLocalProcessing(0) returned 0xFFFFFFFF
+[2026.01.15-02.20.08:187][365]LogOnlineVoice: OSS: Starting networked voice for user: 0
+[2026.01.15-02.20.08:191][365]PIE: Server logged in
+[2026.01.15-02.20.08:193][365]PIE: Play in editor total start time 0.089 seconds.
+[2026.01.15-02.20.08:314][366]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.01.15-02.20.08:470][367]LogPSOHitching: Encountered 750 PSO creation hitches so far (343 graphics, 407 compute). 0 of them were precached.
+[2026.01.15-02.20.10:779][502]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.15-02.20.10:779][502]LogWorld: BeginTearingDown for /Game/UEDPIE_0_L_OneWayRooms
+[2026.01.15-02.20.10:779][502]LogWorld: UWorld::CleanupWorld for L_OneWayRooms, bSessionEnded=true, bCleanupResources=true
+[2026.01.15-02.20.10:779][502]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.15-02.20.10:782][502]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.15-02.20.10:790][502]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.15-02.20.10:815][502]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.01.15-02.20.10:816][502]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2026.01.15-02.20.10:816][502]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=4
+[2026.01.15-02.20.10:819][502]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=2
+[2026.01.15-02.20.10:824][502]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.15-02.20.10:826][502]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2026.01.15-02.20.10:922][503]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2026.01.15-02.20.35:103][922]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.15-02.20.35:109][922]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.15-02.20.35:109][922]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_L_OneWayRooms
+[2026.01.15-02.20.35:112][922]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002821s)
+[2026.01.15-02.20.35:112][922]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/L_OneWayRooms.L_OneWayRooms to /Game/UEDPIE_0_L_OneWayRooms.L_OneWayRooms (0.002863s)
+[2026.01.15-02.20.35:139][922]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2026.01.15-02.20.35:140][922]LogChaosDD: Creating Chaos Debug Draw Scene for world L_OneWayRooms
+[2026.01.15-02.20.35:142][922]LogPlayLevel: PIE: World Init took: (0.002041s)
+[2026.01.15-02.20.35:143][922]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2026.01.15-02.20.35:143][922]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.15-02.20.35:143][922]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.15-02.20.35:143][922]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.15-02.20.35:143][922]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.15-02.20.35:143][922]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.15-02.20.35:143][922]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.15-02.20.35:143][922]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.15-02.20.35:143][922]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.15-02.20.35:143][922]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.15-02.20.35:143][922]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.15-02.20.35:143][922]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.15-02.20.35:147][922]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.15-02.20.35:169][922]LogAudioMixer: Display: Using Audio Hardware Device Surface Omnisonic Speakers (Surface High Definition Audio)
+[2026.01.15-02.20.35:169][922]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.15-02.20.35:169][922]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.15-02.20.35:169][922]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.15-02.20.35:170][922]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2026.01.15-02.20.35:170][922]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2026.01.15-02.20.35:173][922]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2026.01.15-02.20.35:173][922]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2026.01.15-02.20.35:173][922]LogInit: FAudioDevice initialized with ID 6.
+[2026.01.15-02.20.35:173][922]LogAudio: Display: Audio Device (ID: 6) registered with world 'L_OneWayRooms'.
+[2026.01.15-02.20.35:173][922]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2026.01.15-02.20.35:177][922]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.01.15-02.20.35:179][922]LogWorld: Bringing World /Game/UEDPIE_0_L_OneWayRooms.L_OneWayRooms up for play (max tick rate 60) at 2026.01.14-21.20.35
+[2026.01.15-02.20.35:179][922]LogWorld: Bringing up level for play took: 0.001588
+[2026.01.15-02.20.35:182][922]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2026.01.15-02.20.35:182][922]LogVoiceEncode: Display: EncoderVersion: libopus unknown
+[2026.01.15-02.20.35:182][922]LogOnlineVoice: OSS: StartLocalProcessing(0) returned 0xFFFFFFFF
+[2026.01.15-02.20.35:182][922]LogOnlineVoice: OSS: Starting networked voice for user: 0
+[2026.01.15-02.20.35:186][922]PIE: Server logged in
+[2026.01.15-02.20.35:190][922]PIE: Play in editor total start time 0.081 seconds.
+[2026.01.15-02.20.35:247][923]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.01.15-02.20.46:159][573]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.15-02.20.46:159][573]LogWorld: BeginTearingDown for /Game/UEDPIE_0_L_OneWayRooms
+[2026.01.15-02.20.46:159][573]LogWorld: UWorld::CleanupWorld for L_OneWayRooms, bSessionEnded=true, bCleanupResources=true
+[2026.01.15-02.20.46:160][573]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.15-02.20.46:166][573]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.15-02.20.46:178][573]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.15-02.20.46:208][573]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.15-02.20.46:209][573]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2026.01.15-02.20.46:209][573]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=4
+[2026.01.15-02.20.46:211][573]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=2
+[2026.01.15-02.20.46:220][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2026.01.15-02.20.46:310][574]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2026.01.15-02.22.01:598][ 40]Cmd: TRANSACTION UNDO
+[2026.01.15-02.22.01:599][ 40]LogEditorTransaction: Undo Clicking on Elements
+[2026.01.15-02.22.02:597][ 81]Cmd: TRANSACTION UNDO
+[2026.01.15-02.22.02:597][ 81]LogEditorTransaction: Undo Clicking on Elements
+[2026.01.15-02.22.18:468][997]LogInteractiveToolsContext: Display: This Tool creates new shapes. Click in the scene to choose initial placement of mesh.
+[2026.01.15-02.22.18:469][997]LogInteractiveToolsContext: Display: This Tool creates new shapes. Click in the scene to choose initial placement of mesh.
+[2026.01.15-02.22.20:569][116]LogInteractiveToolsContext: Display: Alter shape settings in the detail panel or modify placement with gizmo, then accept the tool.
+[2026.01.15-02.23.02:132][537]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/_GENERATED/40411/Box_7F2D214D.Box_7F2D214D
+[2026.01.15-02.23.02:133][537]LogStaticMesh: Display: Building static mesh Box_7F2D214D (Required Memory Estimate: 0.027864 MB)...
+[2026.01.15-02.23.02:134][537]LogActorFactory: Actor Factory spawned StaticMesh /Game/_GENERATED/40411/Box_7F2D214D.Box_7F2D214D as actor: StaticMeshActor /Game/L_OneWayRooms.L_OneWayRooms:PersistentLevel.StaticMeshActor_12
+[2026.01.15-02.23.02:134][537]LogStaticMesh: Built static mesh [0.00s] /Game/_GENERATED/40411/Box_7F2D214D.Box_7F2D214D
+[2026.01.15-02.23.07:244][802]Cmd: POLY SELECT ALL
+[2026.01.15-02.23.31:573][215]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.01.15-02.23.39:507][674]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.15-02.23.39:550][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/L_OneWayRooms" FILE="../../../../midterm_prototype/Content/L_OneWayRooms.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.01.15-02.23.39:599][674]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2026.01.15-02.23.39:616][674]LogSavePackage: Moving output files for package: /Game/L_OneWayRooms
+[2026.01.15-02.23.39:616][674]LogSavePackage: Moving '../../../../midterm_prototype/Saved/L_OneWayRooms2091BD2245661C97CB421EAF2B74C300.tmp' to '../../../../midterm_prototype/Content/L_OneWayRooms.umap'
+[2026.01.15-02.23.39:625][674]LogFileHelpers: Saving map 'L_OneWayRooms' took 0.075
+[2026.01.15-02.23.39:636][674]LogFileHelpers: InternalPromptForCheckoutAndSave took 129.417 ms (total: 757.342 ms)
+[2026.01.15-02.23.39:658][674]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.15-02.23.39:658][674]LogContentValidation: Enabled validators:
+[2026.01.15-02.23.39:658][674]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.15-02.23.39:658][674]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.15-02.23.39:658][674]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.15-02.23.39:658][674]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.15-02.23.39:658][674]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.15-02.23.39:658][674]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.15-02.23.39:658][674]AssetCheck: /Game/L_OneWayRooms Validating asset
+[2026.01.15-02.24.42:193][395]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11929.134766
+[2026.01.15-02.24.42:297][400]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.15-02.24.42:297][400]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11929.223633, Update Interval: 309.388092
+[2026.01.15-02.24.47:347][696]LogInteractiveToolsContext: Display: Perform Boolean operations on the input meshes; any interior faces will be removed. Use the transform gizmos to modify the position and orientation of the input objects.
+[2026.01.15-02.24.49:138][795]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/_GENERATED/40411/Boolean_715E0EFD.Boolean_715E0EFD
+[2026.01.15-02.24.49:139][795]LogStaticMesh: Display: Building static mesh Boolean_715E0EFD (Required Memory Estimate: 0.081985 MB)...
+[2026.01.15-02.24.49:140][795]LogActorFactory: Actor Factory spawned StaticMesh /Game/_GENERATED/40411/Boolean_715E0EFD.Boolean_715E0EFD as actor: StaticMeshActor /Game/L_OneWayRooms.L_OneWayRooms:PersistentLevel.StaticMeshActor_13
+[2026.01.15-02.24.49:140][795]LogStaticMesh: Built static mesh [0.00s] /Game/_GENERATED/40411/Boolean_715E0EFD.Boolean_715E0EFD
+[2026.01.15-02.24.49:527][795]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.15-02.24.49:565][795]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2026.01.15-02.24.49:567][795]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2026.01.15-02.24.49:570][795]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.15-02.24.49:605][795]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2026.01.15-02.24.49:606][795]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2026.01.15-02.24.52:495][953]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.15-02.24.52:502][953]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.15-02.24.52:502][953]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_L_OneWayRooms
+[2026.01.15-02.24.52:505][953]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002810s)
+[2026.01.15-02.24.52:505][953]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/L_OneWayRooms.L_OneWayRooms to /Game/UEDPIE_0_L_OneWayRooms.L_OneWayRooms (0.002854s)
+[2026.01.15-02.24.52:535][953]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2026.01.15-02.24.52:539][953]LogChaosDD: Creating Chaos Debug Draw Scene for world L_OneWayRooms
+[2026.01.15-02.24.52:542][953]LogPlayLevel: PIE: World Init took: (0.002165s)
+[2026.01.15-02.24.52:543][953]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2026.01.15-02.24.52:543][953]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.15-02.24.52:543][953]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.15-02.24.52:543][953]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.15-02.24.52:543][953]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.15-02.24.52:543][953]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.15-02.24.52:543][953]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.15-02.24.52:543][953]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.15-02.24.52:543][953]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.15-02.24.52:543][953]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.15-02.24.52:543][953]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.15-02.24.52:543][953]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.15-02.24.52:546][953]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.15-02.24.52:569][953]LogAudioMixer: Display: Using Audio Hardware Device Surface Omnisonic Speakers (Surface High Definition Audio)
+[2026.01.15-02.24.52:569][953]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.15-02.24.52:569][953]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.15-02.24.52:569][953]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.15-02.24.52:570][953]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2026.01.15-02.24.52:570][953]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2026.01.15-02.24.52:573][953]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2026.01.15-02.24.52:573][953]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2026.01.15-02.24.52:573][953]LogInit: FAudioDevice initialized with ID 7.
+[2026.01.15-02.24.52:573][953]LogAudio: Display: Audio Device (ID: 7) registered with world 'L_OneWayRooms'.
+[2026.01.15-02.24.52:573][953]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2026.01.15-02.24.52:578][953]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.01.15-02.24.52:580][953]LogWorld: Bringing World /Game/UEDPIE_0_L_OneWayRooms.L_OneWayRooms up for play (max tick rate 60) at 2026.01.14-21.24.52
+[2026.01.15-02.24.52:580][953]LogWorld: Bringing up level for play took: 0.001688
+[2026.01.15-02.24.52:583][953]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2026.01.15-02.24.52:584][953]LogVoiceEncode: Display: EncoderVersion: libopus unknown
+[2026.01.15-02.24.52:584][953]LogOnlineVoice: OSS: StartLocalProcessing(0) returned 0xFFFFFFFF
+[2026.01.15-02.24.52:584][953]LogOnlineVoice: OSS: Starting networked voice for user: 0
+[2026.01.15-02.24.52:588][953]PIE: Server logged in
+[2026.01.15-02.24.52:591][953]PIE: Play in editor total start time 0.09 seconds.
+[2026.01.15-02.24.52:657][954]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.01.15-02.24.55:878][137]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.15-02.24.55:878][137]LogWorld: BeginTearingDown for /Game/UEDPIE_0_L_OneWayRooms
+[2026.01.15-02.24.55:878][137]LogWorld: UWorld::CleanupWorld for L_OneWayRooms, bSessionEnded=true, bCleanupResources=true
+[2026.01.15-02.24.55:879][137]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.15-02.24.55:883][137]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.15-02.24.55:890][137]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.15-02.24.55:917][137]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.15-02.24.55:917][137]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2026.01.15-02.24.55:917][137]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=4
+[2026.01.15-02.24.55:919][137]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=2
+[2026.01.15-02.24.55:927][137]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2026.01.15-02.24.56:020][138]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2026.01.15-02.25.53:589][486]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.15-02.25.53:594][486]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.15-02.25.53:595][486]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_L_OneWayRooms
+[2026.01.15-02.25.53:598][486]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003033s)
+[2026.01.15-02.25.53:598][486]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/L_OneWayRooms.L_OneWayRooms to /Game/UEDPIE_0_L_OneWayRooms.L_OneWayRooms (0.003079s)
+[2026.01.15-02.25.53:629][486]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2026.01.15-02.25.53:631][486]LogChaosDD: Creating Chaos Debug Draw Scene for world L_OneWayRooms
+[2026.01.15-02.25.53:633][486]LogPlayLevel: PIE: World Init took: (0.002160s)
+[2026.01.15-02.25.53:634][486]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2026.01.15-02.25.53:634][486]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.15-02.25.53:634][486]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.15-02.25.53:634][486]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.15-02.25.53:634][486]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.15-02.25.53:634][486]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.15-02.25.53:634][486]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.15-02.25.53:634][486]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.15-02.25.53:634][486]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.15-02.25.53:634][486]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.15-02.25.53:634][486]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.15-02.25.53:634][486]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.15-02.25.53:638][486]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.15-02.25.53:661][486]LogAudioMixer: Display: Using Audio Hardware Device Surface Omnisonic Speakers (Surface High Definition Audio)
+[2026.01.15-02.25.53:661][486]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.15-02.25.53:661][486]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.15-02.25.53:661][486]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.15-02.25.53:662][486]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2026.01.15-02.25.53:662][486]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2026.01.15-02.25.53:665][486]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2026.01.15-02.25.53:665][486]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2026.01.15-02.25.53:665][486]LogInit: FAudioDevice initialized with ID 8.
+[2026.01.15-02.25.53:665][486]LogAudio: Display: Audio Device (ID: 8) registered with world 'L_OneWayRooms'.
+[2026.01.15-02.25.53:665][486]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2026.01.15-02.25.53:669][486]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.01.15-02.25.53:671][486]LogWorld: Bringing World /Game/UEDPIE_0_L_OneWayRooms.L_OneWayRooms up for play (max tick rate 60) at 2026.01.14-21.25.53
+[2026.01.15-02.25.53:671][486]LogWorld: Bringing up level for play took: 0.001612
+[2026.01.15-02.25.53:675][486]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2026.01.15-02.25.53:675][486]LogVoiceEncode: Display: EncoderVersion: libopus unknown
+[2026.01.15-02.25.53:675][486]LogOnlineVoice: OSS: StartLocalProcessing(0) returned 0xFFFFFFFF
+[2026.01.15-02.25.53:675][486]LogOnlineVoice: OSS: Starting networked voice for user: 0
+[2026.01.15-02.25.53:680][486]PIE: Server logged in
+[2026.01.15-02.25.53:683][486]PIE: Play in editor total start time 0.088 seconds.
+[2026.01.15-02.25.53:739][487]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.01.15-02.25.57:499][708]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.15-02.25.57:499][708]LogWorld: BeginTearingDown for /Game/UEDPIE_0_L_OneWayRooms
+[2026.01.15-02.25.57:499][708]LogWorld: UWorld::CleanupWorld for L_OneWayRooms, bSessionEnded=true, bCleanupResources=true
+[2026.01.15-02.25.57:500][708]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.15-02.25.57:506][708]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.15-02.25.57:517][708]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.15-02.25.57:545][708]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.15-02.25.57:545][708]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2026.01.15-02.25.57:545][708]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=4
+[2026.01.15-02.25.57:547][708]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=2
+[2026.01.15-02.25.57:554][708]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2026.01.15-02.25.57:645][709]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2026.01.15-02.26.04:323][103]Cmd: TRANSACTION UNDO
+[2026.01.15-02.26.04:323][103]LogEditorTransaction: Undo Move Elements
+[2026.01.15-02.26.14:136][655]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.15-02.26.14:141][655]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.15-02.26.14:141][655]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_L_OneWayRooms
+[2026.01.15-02.26.14:144][655]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002894s)
+[2026.01.15-02.26.14:144][655]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/L_OneWayRooms.L_OneWayRooms to /Game/UEDPIE_0_L_OneWayRooms.L_OneWayRooms (0.002935s)
+[2026.01.15-02.26.14:171][655]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2026.01.15-02.26.14:173][655]LogChaosDD: Creating Chaos Debug Draw Scene for world L_OneWayRooms
+[2026.01.15-02.26.14:175][655]LogPlayLevel: PIE: World Init took: (0.001954s)
+[2026.01.15-02.26.14:176][655]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2026.01.15-02.26.14:176][655]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.15-02.26.14:176][655]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.15-02.26.14:176][655]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.15-02.26.14:176][655]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.15-02.26.14:176][655]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.15-02.26.14:176][655]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.15-02.26.14:176][655]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.15-02.26.14:176][655]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.15-02.26.14:176][655]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.15-02.26.14:176][655]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.15-02.26.14:176][655]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.15-02.26.14:179][655]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.15-02.26.14:202][655]LogAudioMixer: Display: Using Audio Hardware Device Surface Omnisonic Speakers (Surface High Definition Audio)
+[2026.01.15-02.26.14:202][655]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.15-02.26.14:202][655]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.15-02.26.14:202][655]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.15-02.26.14:202][655]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2026.01.15-02.26.14:202][655]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2026.01.15-02.26.14:205][655]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2026.01.15-02.26.14:207][655]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2026.01.15-02.26.14:207][655]LogInit: FAudioDevice initialized with ID 9.
+[2026.01.15-02.26.14:207][655]LogAudio: Display: Audio Device (ID: 9) registered with world 'L_OneWayRooms'.
+[2026.01.15-02.26.14:207][655]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2026.01.15-02.26.14:211][655]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.01.15-02.26.14:213][655]LogWorld: Bringing World /Game/UEDPIE_0_L_OneWayRooms.L_OneWayRooms up for play (max tick rate 60) at 2026.01.14-21.26.14
+[2026.01.15-02.26.14:213][655]LogWorld: Bringing up level for play took: 0.001599
+[2026.01.15-02.26.14:215][655]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2026.01.15-02.26.14:216][655]LogVoiceEncode: Display: EncoderVersion: libopus unknown
+[2026.01.15-02.26.14:216][655]LogOnlineVoice: OSS: StartLocalProcessing(0) returned 0xFFFFFFFF
+[2026.01.15-02.26.14:216][655]LogOnlineVoice: OSS: Starting networked voice for user: 0
+[2026.01.15-02.26.14:220][655]PIE: Server logged in
+[2026.01.15-02.26.14:223][655]PIE: Play in editor total start time 0.082 seconds.
+[2026.01.15-02.26.14:282][656]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.01.15-02.26.32:119][720]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.15-02.26.32:119][720]LogWorld: BeginTearingDown for /Game/UEDPIE_0_L_OneWayRooms
+[2026.01.15-02.26.32:119][720]LogWorld: UWorld::CleanupWorld for L_OneWayRooms, bSessionEnded=true, bCleanupResources=true
+[2026.01.15-02.26.32:120][720]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.15-02.26.32:126][720]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.15-02.26.32:133][720]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.15-02.26.32:157][720]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.15-02.26.32:158][720]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2026.01.15-02.26.32:158][720]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=4
+[2026.01.15-02.26.32:161][720]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=2
+[2026.01.15-02.26.32:170][720]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2026.01.15-02.26.32:260][721]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2026.01.15-02.26.46:613][545]LogInteractiveToolsContext: Display: This Tool creates new shapes. Click in the scene to choose initial placement of mesh.
+[2026.01.15-02.26.46:613][545]LogInteractiveToolsContext: Display: This Tool creates new shapes. Click in the scene to choose initial placement of mesh.
+[2026.01.15-02.26.47:389][589]LogInteractiveToolsContext: Display: Alter shape settings in the detail panel or modify placement with gizmo, then accept the tool.
+[2026.01.15-02.26.57:195][171]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/_GENERATED/40411/Box_13EE73CF.Box_13EE73CF
+[2026.01.15-02.26.57:196][171]LogStaticMesh: Display: Building static mesh Box_13EE73CF (Required Memory Estimate: 0.027864 MB)...
+[2026.01.15-02.26.57:196][171]LogActorFactory: Actor Factory spawned StaticMesh /Game/_GENERATED/40411/Box_13EE73CF.Box_13EE73CF as actor: StaticMeshActor /Game/L_OneWayRooms.L_OneWayRooms:PersistentLevel.StaticMeshActor_14
+[2026.01.15-02.26.57:197][171]LogStaticMesh: Built static mesh [0.00s] /Game/_GENERATED/40411/Box_13EE73CF.Box_13EE73CF
+[2026.01.15-02.26.59:358][171]LogMeshUtilities: Finished distance field build in 2.2s - 112x105x105 sparse distance field, 1.3Mb total, 0.0Mb always loaded, 60% occupied, 0 triangles, Box_13EE73CF
+[2026.01.15-02.27.02:569][344]LogMeshUtilities: Finished distance field build in 3.2s - 112x105x105 sparse distance field, 1.3Mb total, 0.0Mb always loaded, 60% occupied, 0 triangles, Box_13EE73CF
+[2026.01.15-02.27.03:272][387]Cmd: DUPLICATE
+[2026.01.15-02.27.03:273][387]Cmd: ACTOR DUPLICATE
+[2026.01.15-02.27.39:351][486]LogInteractiveToolsContext: Display: Perform Boolean operations on the input meshes; any interior faces will be removed. Use the transform gizmos to modify the position and orientation of the input objects.
+[2026.01.15-02.27.46:570][915]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/_GENERATED/40411/Boolean_03C19031.Boolean_03C19031
+[2026.01.15-02.27.46:570][915]LogStaticMesh: Display: Building static mesh Boolean_03C19031 (Required Memory Estimate: 0.059814 MB)...
+[2026.01.15-02.27.46:571][915]LogActorFactory: Actor Factory spawned StaticMesh /Game/_GENERATED/40411/Boolean_03C19031.Boolean_03C19031 as actor: StaticMeshActor /Game/L_OneWayRooms.L_OneWayRooms:PersistentLevel.StaticMeshActor_16
+[2026.01.15-02.27.46:572][915]LogStaticMesh: Built static mesh [0.00s] /Game/_GENERATED/40411/Boolean_03C19031.Boolean_03C19031
+[2026.01.15-02.27.49:370][915]LogMeshUtilities: Finished distance field build in 2.8s - 112x105x105 sparse distance field, 1.6Mb total, 0.0Mb always loaded, 78% occupied, 0 triangles, Boolean_03C19031
+[2026.01.15-02.27.49:415][915]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.15-02.27.49:454][915]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2026.01.15-02.27.49:457][915]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2026.01.15-02.27.49:461][915]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.15-02.27.49:496][915]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2026.01.15-02.27.49:497][915]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2026.01.15-02.27.53:494][143]LogMeshUtilities: Finished distance field build in 4.1s - 112x105x105 sparse distance field, 1.6Mb total, 0.0Mb always loaded, 78% occupied, 0 triangles, Boolean_03C19031
+[2026.01.15-02.27.58:255][422]LogInteractiveToolsContext: Display: This Tool creates new shapes. Click in the scene to choose initial placement of mesh.
+[2026.01.15-02.27.58:255][422]LogInteractiveToolsContext: Display: This Tool creates new shapes. Click in the scene to choose initial placement of mesh.
+[2026.01.15-02.27.59:237][478]LogInteractiveToolsContext: Display: Alter shape settings in the detail panel or modify placement with gizmo, then accept the tool.
+[2026.01.15-02.28.58:768][ 37]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/_GENERATED/40411/Box_E6DF8B37.Box_E6DF8B37
+[2026.01.15-02.28.58:768][ 37]LogStaticMesh: Display: Building static mesh Box_E6DF8B37 (Required Memory Estimate: 0.027864 MB)...
+[2026.01.15-02.28.58:769][ 37]LogStaticMesh: Built static mesh [0.00s] /Game/_GENERATED/40411/Box_E6DF8B37.Box_E6DF8B37
+[2026.01.15-02.28.58:771][ 37]LogActorFactory: Actor Factory spawned StaticMesh /Game/_GENERATED/40411/Box_E6DF8B37.Box_E6DF8B37 as actor: StaticMeshActor /Game/L_OneWayRooms.L_OneWayRooms:PersistentLevel.StaticMeshActor_17
+[2026.01.15-02.29.38:981][370]LogInteractiveToolsContext: Display: Perform Boolean operations on the input meshes; any interior faces will be removed. Use the transform gizmos to modify the position and orientation of the input objects.
+[2026.01.15-02.29.44:011][667]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/_GENERATED/40411/Boolean_7980F55C.Boolean_7980F55C
+[2026.01.15-02.29.44:011][667]LogStaticMesh: Display: Building static mesh Boolean_7980F55C (Required Memory Estimate: 0.104288 MB)...
+[2026.01.15-02.29.44:012][667]LogActorFactory: Actor Factory spawned StaticMesh /Game/_GENERATED/40411/Boolean_7980F55C.Boolean_7980F55C as actor: StaticMeshActor /Game/L_OneWayRooms.L_OneWayRooms:PersistentLevel.StaticMeshActor_18
+[2026.01.15-02.29.44:012][667]LogStaticMesh: Built static mesh [0.00s] /Game/_GENERATED/40411/Boolean_7980F55C.Boolean_7980F55C
+[2026.01.15-02.29.47:085][667]LogMeshUtilities: Finished distance field build in 3.1s - 112x105x105 sparse distance field, 1.6Mb total, 0.0Mb always loaded, 78% occupied, 0 triangles, Boolean_7980F55C
+[2026.01.15-02.29.47:138][667]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.15-02.29.47:177][667]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2026.01.15-02.29.47:179][667]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2026.01.15-02.29.47:182][667]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.15-02.29.47:216][667]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2026.01.15-02.29.47:218][667]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2026.01.15-02.29.51:277][860]LogMeshUtilities: Finished distance field build in 4.2s - 112x105x105 sparse distance field, 1.6Mb total, 0.0Mb always loaded, 78% occupied, 0 triangles, Boolean_7980F55C
+[2026.01.15-02.30.11:809][ 69]LogInteractiveToolsContext: Display: This Tool creates new shapes. Click in the scene to choose initial placement of mesh.
+[2026.01.15-02.30.11:810][ 69]LogInteractiveToolsContext: Display: This Tool creates new shapes. Click in the scene to choose initial placement of mesh.
+[2026.01.15-02.30.14:417][223]LogInteractiveToolsContext: Display: Alter shape settings in the detail panel or modify placement with gizmo, then accept the tool.
+[2026.01.15-02.30.50:550][380]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12297.500977
+[2026.01.15-02.30.50:649][386]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.15-02.30.50:649][386]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12297.584961, Update Interval: 343.695801
+[2026.01.15-02.30.50:735][391]LogPSOHitching: Encountered 800 PSO creation hitches so far (370 graphics, 430 compute). 0 of them were precached.
+[2026.01.15-02.31.19:558][ 66]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/_GENERATED/40411/Cone_2E7A387C.Cone_2E7A387C
+[2026.01.15-02.31.19:559][ 66]LogStaticMesh: Display: Building static mesh Cone_2E7A387C (Required Memory Estimate: 0.166372 MB)...
+[2026.01.15-02.31.19:560][ 66]LogActorFactory: Actor Factory spawned StaticMesh /Game/_GENERATED/40411/Cone_2E7A387C.Cone_2E7A387C as actor: StaticMeshActor /Game/L_OneWayRooms.L_OneWayRooms:PersistentLevel.StaticMeshActor_19
+[2026.01.15-02.31.19:560][ 66]LogStaticMesh: Built static mesh [0.00s] /Game/_GENERATED/40411/Cone_2E7A387C.Cone_2E7A387C
+[2026.01.15-02.31.21:511][105]LogMeshUtilities: Finished distance field build in 1.2s - 56x56x105 sparse distance field, 0.4Mb total, 0.0Mb always loaded, 64% occupied, 0 triangles, Cone_2E7A387C
+[2026.01.15-02.31.33:313][797]LogInteractiveToolsContext: Display: Perform Boolean operations on the input meshes; any interior faces will be removed. Use the transform gizmos to modify the position and orientation of the input objects.
+[2026.01.15-02.31.37:679][ 34]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/_GENERATED/40411/Boolean_2A071AB2.Boolean_2A071AB2
+[2026.01.15-02.31.37:680][ 34]LogStaticMesh: Display: Building static mesh Boolean_2A071AB2 (Required Memory Estimate: 0.432907 MB)...
+[2026.01.15-02.31.37:681][ 34]LogActorFactory: Actor Factory spawned StaticMesh /Game/_GENERATED/40411/Boolean_2A071AB2.Boolean_2A071AB2 as actor: StaticMeshActor /Game/L_OneWayRooms.L_OneWayRooms:PersistentLevel.StaticMeshActor_20
+[2026.01.15-02.31.37:682][ 34]LogStaticMesh: Built static mesh [0.00s] /Game/_GENERATED/40411/Boolean_2A071AB2.Boolean_2A071AB2
+[2026.01.15-02.31.40:917][ 34]LogMeshUtilities: Finished distance field build in 3.2s - 112x105x105 sparse distance field, 1.6Mb total, 0.0Mb always loaded, 77% occupied, 0 triangles, Boolean_2A071AB2
+[2026.01.15-02.31.40:986][ 34]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.15-02.31.41:036][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2026.01.15-02.31.41:040][ 34]LogEditorActor: Deleted 1 Actors (0.061 secs)
+[2026.01.15-02.31.41:045][ 34]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.15-02.31.41:086][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2026.01.15-02.31.41:087][ 34]LogEditorActor: Deleted 1 Actors (0.048 secs)
+[2026.01.15-02.31.43:275][156]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.15-02.31.43:284][156]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.15-02.31.43:284][156]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_L_OneWayRooms
+[2026.01.15-02.31.43:290][156]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006165s)
+[2026.01.15-02.31.43:290][156]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/L_OneWayRooms.L_OneWayRooms to /Game/UEDPIE_0_L_OneWayRooms.L_OneWayRooms (0.006231s)
+[2026.01.15-02.31.43:328][156]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2026.01.15-02.31.43:331][156]LogChaosDD: Creating Chaos Debug Draw Scene for world L_OneWayRooms
+[2026.01.15-02.31.43:334][156]LogPlayLevel: PIE: World Init took: (0.003380s)
+[2026.01.15-02.31.43:335][156]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2026.01.15-02.31.43:335][156]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.15-02.31.43:335][156]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.15-02.31.43:335][156]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.15-02.31.43:335][156]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.15-02.31.43:335][156]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.15-02.31.43:335][156]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.15-02.31.43:335][156]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.15-02.31.43:335][156]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.15-02.31.43:335][156]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.15-02.31.43:335][156]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.15-02.31.43:335][156]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.15-02.31.43:341][156]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.15-02.31.43:375][156]LogAudioMixer: Display: Using Audio Hardware Device Surface Omnisonic Speakers (Surface High Definition Audio)
+[2026.01.15-02.31.43:375][156]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.15-02.31.43:375][156]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.15-02.31.43:375][156]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.15-02.31.43:375][156]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2026.01.15-02.31.43:376][156]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2026.01.15-02.31.43:380][156]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2026.01.15-02.31.43:380][156]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2026.01.15-02.31.43:380][156]LogInit: FAudioDevice initialized with ID 10.
+[2026.01.15-02.31.43:380][156]LogAudio: Display: Audio Device (ID: 10) registered with world 'L_OneWayRooms'.
+[2026.01.15-02.31.43:380][156]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2026.01.15-02.31.43:387][156]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.01.15-02.31.43:389][156]LogWorld: Bringing World /Game/UEDPIE_0_L_OneWayRooms.L_OneWayRooms up for play (max tick rate 60) at 2026.01.14-21.31.43
+[2026.01.15-02.31.43:390][156]LogWorld: Bringing up level for play took: 0.002334
+[2026.01.15-02.31.43:393][156]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2026.01.15-02.31.43:394][156]LogVoiceEncode: Display: EncoderVersion: libopus unknown
+[2026.01.15-02.31.43:394][156]LogOnlineVoice: OSS: StartLocalProcessing(0) returned 0xFFFFFFFF
+[2026.01.15-02.31.43:394][156]LogOnlineVoice: OSS: Starting networked voice for user: 0
+[2026.01.15-02.31.43:399][156]PIE: Server logged in
+[2026.01.15-02.31.43:402][156]PIE: Play in editor total start time 0.119 seconds.
+[2026.01.15-02.31.43:475][157]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.01.15-02.31.45:710][276]LogMeshUtilities: Finished distance field build in 4.8s - 112x105x105 sparse distance field, 1.6Mb total, 0.0Mb always loaded, 77% occupied, 0 triangles, Boolean_2A071AB2
+[2026.01.15-02.31.59:748][116]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.15-02.31.59:748][116]LogWorld: BeginTearingDown for /Game/UEDPIE_0_L_OneWayRooms
+[2026.01.15-02.31.59:748][116]LogWorld: UWorld::CleanupWorld for L_OneWayRooms, bSessionEnded=true, bCleanupResources=true
+[2026.01.15-02.31.59:749][116]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.15-02.31.59:753][116]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.15-02.31.59:761][116]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.15-02.31.59:792][116]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.15-02.31.59:792][116]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2026.01.15-02.31.59:792][116]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=4
+[2026.01.15-02.31.59:794][116]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=2
+[2026.01.15-02.31.59:804][116]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2026.01.15-02.31.59:895][117]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2026.01.15-02.32.09:096][665]LogInteractiveToolsContext: Display: This Tool creates new shapes. Click in the scene to choose initial placement of mesh.
+[2026.01.15-02.32.09:097][665]LogInteractiveToolsContext: Display: This Tool creates new shapes. Click in the scene to choose initial placement of mesh.
+[2026.01.15-02.32.10:698][759]LogInteractiveToolsContext: Display: Alter shape settings in the detail panel or modify placement with gizmo, then accept the tool.
+[2026.01.15-02.33.18:463][742]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/_GENERATED/40411/Box_8FA2E34C.Box_8FA2E34C
+[2026.01.15-02.33.18:463][742]LogStaticMesh: Display: Building static mesh Box_8FA2E34C (Required Memory Estimate: 0.027864 MB)...
+[2026.01.15-02.33.18:464][742]LogStaticMesh: Built static mesh [0.00s] /Game/_GENERATED/40411/Box_8FA2E34C.Box_8FA2E34C
+[2026.01.15-02.33.18:464][742]LogActorFactory: Actor Factory spawned StaticMesh /Game/_GENERATED/40411/Box_8FA2E34C.Box_8FA2E34C as actor: StaticMeshActor /Game/L_OneWayRooms.L_OneWayRooms:PersistentLevel.StaticMeshActor_21
+[2026.01.15-02.33.19:184][744]LogPSOHitching: Encountered 850 PSO creation hitches so far (388 graphics, 462 compute). 0 of them were precached.
+[2026.01.15-02.33.27:283][220]LogInteractiveToolsContext: Display: Perform Boolean operations on the input meshes; any interior faces will be removed. Use the transform gizmos to modify the position and orientation of the input objects.
+[2026.01.15-02.33.28:861][311]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/_GENERATED/40411/Boolean_F1DD2A7F.Boolean_F1DD2A7F
+[2026.01.15-02.33.28:861][311]LogStaticMesh: Display: Building static mesh Boolean_F1DD2A7F (Required Memory Estimate: 0.464857 MB)...
+[2026.01.15-02.33.28:862][311]LogActorFactory: Actor Factory spawned StaticMesh /Game/_GENERATED/40411/Boolean_F1DD2A7F.Boolean_F1DD2A7F as actor: StaticMeshActor /Game/L_OneWayRooms.L_OneWayRooms:PersistentLevel.StaticMeshActor_22
+[2026.01.15-02.33.28:864][311]LogStaticMesh: Built static mesh [0.00s] /Game/_GENERATED/40411/Boolean_F1DD2A7F.Boolean_F1DD2A7F
+[2026.01.15-02.33.32:096][311]LogMeshUtilities: Finished distance field build in 3.2s - 112x105x105 sparse distance field, 1.6Mb total, 0.0Mb always loaded, 76% occupied, 0 triangles, Boolean_F1DD2A7F
+[2026.01.15-02.33.32:145][311]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.15-02.33.32:181][311]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2026.01.15-02.33.32:183][311]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2026.01.15-02.33.32:187][311]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.15-02.33.32:220][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.01.15-02.33.32:221][311]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2026.01.15-02.33.34:922][464]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.15-02.33.34:931][464]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.15-02.33.34:931][464]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_L_OneWayRooms
+[2026.01.15-02.33.34:936][464]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004899s)
+[2026.01.15-02.33.34:936][464]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/L_OneWayRooms.L_OneWayRooms to /Game/UEDPIE_0_L_OneWayRooms.L_OneWayRooms (0.004949s)
+[2026.01.15-02.33.34:975][464]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2026.01.15-02.33.34:977][464]LogChaosDD: Creating Chaos Debug Draw Scene for world L_OneWayRooms
+[2026.01.15-02.33.34:979][464]LogPlayLevel: PIE: World Init took: (0.002089s)
+[2026.01.15-02.33.34:980][464]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2026.01.15-02.33.34:980][464]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.15-02.33.34:980][464]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.15-02.33.34:981][464]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.15-02.33.34:981][464]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.15-02.33.34:981][464]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.15-02.33.34:981][464]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.15-02.33.34:981][464]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.15-02.33.34:981][464]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.15-02.33.34:981][464]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.15-02.33.34:981][464]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.15-02.33.34:981][464]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.15-02.33.34:984][464]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.15-02.33.35:018][464]LogAudioMixer: Display: Using Audio Hardware Device Surface Omnisonic Speakers (Surface High Definition Audio)
+[2026.01.15-02.33.35:019][464]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.15-02.33.35:019][464]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.15-02.33.35:019][464]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.15-02.33.35:019][464]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2026.01.15-02.33.35:019][464]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2026.01.15-02.33.35:023][464]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2026.01.15-02.33.35:023][464]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2026.01.15-02.33.35:023][464]LogInit: FAudioDevice initialized with ID 11.
+[2026.01.15-02.33.35:023][464]LogAudio: Display: Audio Device (ID: 11) registered with world 'L_OneWayRooms'.
+[2026.01.15-02.33.35:023][464]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2026.01.15-02.33.35:029][464]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.01.15-02.33.35:032][464]LogWorld: Bringing World /Game/UEDPIE_0_L_OneWayRooms.L_OneWayRooms up for play (max tick rate 60) at 2026.01.14-21.33.35
+[2026.01.15-02.33.35:032][464]LogWorld: Bringing up level for play took: 0.002640
+[2026.01.15-02.33.35:036][464]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2026.01.15-02.33.35:037][464]LogVoiceEncode: Display: EncoderVersion: libopus unknown
+[2026.01.15-02.33.35:037][464]LogOnlineVoice: OSS: StartLocalProcessing(0) returned 0xFFFFFFFF
+[2026.01.15-02.33.35:037][464]LogOnlineVoice: OSS: Starting networked voice for user: 0
+[2026.01.15-02.33.35:042][464]PIE: Server logged in
+[2026.01.15-02.33.35:046][464]PIE: Play in editor total start time 0.116 seconds.
+[2026.01.15-02.33.35:122][465]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.01.15-02.33.36:954][560]LogMeshUtilities: Finished distance field build in 4.9s - 112x105x105 sparse distance field, 1.6Mb total, 0.0Mb always loaded, 76% occupied, 0 triangles, Boolean_F1DD2A7F
+[2026.01.15-02.33.55:118][648]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.15-02.33.55:118][648]LogWorld: BeginTearingDown for /Game/UEDPIE_0_L_OneWayRooms
+[2026.01.15-02.33.55:118][648]LogWorld: UWorld::CleanupWorld for L_OneWayRooms, bSessionEnded=true, bCleanupResources=true
+[2026.01.15-02.33.55:118][648]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.15-02.33.55:122][648]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.15-02.33.55:130][648]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.15-02.33.55:154][648]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.15-02.33.55:154][648]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2026.01.15-02.33.55:154][648]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11, StreamState=4
+[2026.01.15-02.33.55:157][648]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11, StreamState=2
+[2026.01.15-02.33.55:165][648]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2026.01.15-02.33.55:262][649]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2026.01.15-02.34.28:313][577]LogShaderCompilers: Display: ================================================
+[2026.01.15-02.34.28:313][577]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.01.15-02.34.28:313][577]LogShaderCompilers: Display: Total job queries 18,473, among them cache hits 4,870 (26.36%), DDC hits 12,379 (67.01%), Duplicates 564 (3.05%)
+[2026.01.15-02.34.28:313][577]LogShaderCompilers: Display: Tracking 13,039 distinct input hashes that result in 11,931 distinct outputs (91.50%)
+[2026.01.15-02.34.28:313][577]LogShaderCompilers: Display: RAM used: 158.88 MiB of 1.60 GiB budget. Usage: 9.70%
+[2026.01.15-02.34.28:313][577]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.01.15-02.34.28:313][577]LogShaderCompilers: Display: Shaders Compiled: 660
+[2026.01.15-02.34.28:313][577]LogShaderCompilers: Display: Jobs assigned 660, completed 660 (100%)
+[2026.01.15-02.34.28:313][577]LogShaderCompilers: Display: Average time worker was idle: 261.71 s
+[2026.01.15-02.34.28:313][577]LogShaderCompilers: Display: Time job spent in pending queue: average 10.36 s, longest 46.14 s
+[2026.01.15-02.34.28:313][577]LogShaderCompilers: Display: Job execution time: average 6.33 s, max 31.11 s
+[2026.01.15-02.34.28:313][577]LogShaderCompilers: Display: Job life time (pending + execution): average 16.69 s, max 48.49
+[2026.01.15-02.34.28:313][577]LogShaderCompilers: Display: Shader code size: total 10.085 MiB, numShaders 693, average 14.902 KiB, min 1.727 KiB, max 55.505 KiB
+[2026.01.15-02.34.28:313][577]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 173.79 s
+[2026.01.15-02.34.28:313][577]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2026.01.15-02.34.28:313][577]LogShaderCompilers: Display: Jobs were issued in 216 batches (only local compilation was used), average 3.06 jobs/batch
+[2026.01.15-02.34.28:313][577]LogShaderCompilers: Display: Average processing rate: 3.80 jobs/sec
+[2026.01.15-02.34.28:313][577]LogShaderCompilers: Display: Total thread time: 739.066 s
+[2026.01.15-02.34.28:313][577]LogShaderCompilers: Display: Total thread preprocess time: 202.615 s
+[2026.01.15-02.34.28:313][577]LogShaderCompilers: Display: Percentage time preprocessing: 27.42%
+[2026.01.15-02.34.28:313][577]LogShaderCompilers: Display: Effective parallelization: 4.25 (times faster than compiling all shaders on one thread). Compare with number of workers: 4 - 1.063158
+[2026.01.15-02.34.28:313][577]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.01.15-02.34.28:313][577]LogShaderCompilers: Display:                                     FLumenInitialSamplingRGS (compiled    1 times, average 4.64 sec, max 4.64 sec, min 4.64 sec)
+[2026.01.15-02.34.28:313][577]LogShaderCompilers: Display:                         FLumenVisualizeHardwareRayTracingRGS (compiled    8 times, average 4.42 sec, max 5.30 sec, min 3.54 sec)
+[2026.01.15-02.34.28:313][577]LogShaderCompilers: Display:                  FRayTracedTranslucencyHardwareRayTracingRGS (compiled    4 times, average 4.31 sec, max 5.92 sec, min 3.49 sec)
+[2026.01.15-02.34.28:313][577]LogShaderCompilers: Display:                        FLumenReflectionHardwareRayTracingRGS (compiled   80 times, average 2.81 sec, max 5.86 sec, min 2.09 sec)
+[2026.01.15-02.34.28:313][577]LogShaderCompilers: Display:                                        FRayTracingLightingMS (compiled    1 times, average 2.29 sec, max 2.29 sec, min 2.29 sec)
+[2026.01.15-02.34.28:314][577]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.01.15-02.34.28:314][577]LogShaderCompilers: Display:                        FLumenReflectionHardwareRayTracingRGS - 30.47% of total time (compiled   80 times, average 2.81 sec, max 5.86 sec, min 2.09 sec)
+[2026.01.15-02.34.28:314][577]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.08% of total time (compiled   63 times, average 0.83 sec, max 3.03 sec, min 0.34 sec)
+[2026.01.15-02.34.28:314][577]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 5.39% of total time (compiled   24 times, average 1.66 sec, max 4.29 sec, min 0.91 sec)
+[2026.01.15-02.34.28:314][577]LogShaderCompilers: Display:                         FLumenVisualizeHardwareRayTracingRGS - 4.79% of total time (compiled    8 times, average 4.42 sec, max 5.30 sec, min 3.54 sec)
+[2026.01.15-02.34.28:314][577]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 4.35% of total time (compiled   15 times, average 2.14 sec, max 4.83 sec, min 1.13 sec)
+[2026.01.15-02.34.28:314][577]LogShaderCompilers: Display: === Material stats ===
+[2026.01.15-02.34.28:314][577]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.01.15-02.34.28:314][577]LogShaderCompilers: Display: Materials Translated:    211
+[2026.01.15-02.34.28:314][577]LogShaderCompilers: Display: Material Total Translate Time: 0.37 s
+[2026.01.15-02.34.28:314][577]LogShaderCompilers: Display: Material Translation Only: 0.09 s (23%)
+[2026.01.15-02.34.28:314][577]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.01.15-02.34.28:314][577]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.01.15-02.34.28:314][577]LogShaderCompilers: Display: ================================================
+[2026.01.15-02.34.37:035][ 83]Cmd: DUPLICATE
+[2026.01.15-02.34.37:036][ 83]Cmd: ACTOR DUPLICATE
+[2026.01.15-02.35.21:853][675]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.15-02.35.21:859][675]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.15-02.35.21:888][675]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_L_OneWayRooms
+[2026.01.15-02.35.21:894][675]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006249s)
+[2026.01.15-02.35.21:894][675]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/L_OneWayRooms.L_OneWayRooms to /Game/UEDPIE_0_L_OneWayRooms.L_OneWayRooms (0.006341s)
+[2026.01.15-02.35.21:924][675]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2026.01.15-02.35.21:925][675]LogChaosDD: Creating Chaos Debug Draw Scene for world L_OneWayRooms
+[2026.01.15-02.35.21:929][675]LogPlayLevel: PIE: World Init took: (0.002333s)
+[2026.01.15-02.35.21:929][675]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2026.01.15-02.35.21:930][675]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.15-02.35.21:930][675]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.15-02.35.21:930][675]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.15-02.35.21:930][675]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.15-02.35.21:930][675]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.15-02.35.21:930][675]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.15-02.35.21:930][675]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.15-02.35.21:930][675]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.15-02.35.21:930][675]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.15-02.35.21:930][675]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.15-02.35.21:930][675]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.15-02.35.21:933][675]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.15-02.35.21:955][675]LogAudioMixer: Display: Using Audio Hardware Device Surface Omnisonic Speakers (Surface High Definition Audio)
+[2026.01.15-02.35.21:955][675]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.15-02.35.21:955][675]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.15-02.35.21:955][675]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.15-02.35.21:955][675]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2026.01.15-02.35.21:955][675]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2026.01.15-02.35.21:960][675]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2026.01.15-02.35.21:960][675]LogInit: FAudioDevice initialized with ID 12.
+[2026.01.15-02.35.21:960][675]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2026.01.15-02.35.21:960][675]LogAudio: Display: Audio Device (ID: 12) registered with world 'L_OneWayRooms'.
+[2026.01.15-02.35.21:960][675]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2026.01.15-02.35.21:964][675]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.01.15-02.35.21:966][675]LogWorld: Bringing World /Game/UEDPIE_0_L_OneWayRooms.L_OneWayRooms up for play (max tick rate 60) at 2026.01.14-21.35.21
+[2026.01.15-02.35.21:966][675]LogWorld: Bringing up level for play took: 0.001707
+[2026.01.15-02.35.21:969][675]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2026.01.15-02.35.21:970][675]LogVoiceEncode: Display: EncoderVersion: libopus unknown
+[2026.01.15-02.35.21:970][675]LogOnlineVoice: OSS: StartLocalProcessing(0) returned 0xFFFFFFFF
+[2026.01.15-02.35.21:970][675]LogOnlineVoice: OSS: Starting networked voice for user: 0
+[2026.01.15-02.35.21:974][675]PIE: Server logged in
+[2026.01.15-02.35.21:977][675]PIE: Play in editor total start time 0.119 seconds.
+[2026.01.15-02.35.22:095][676]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.01.15-02.35.34:658][417]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.15-02.35.34:659][417]LogWorld: BeginTearingDown for /Game/UEDPIE_0_L_OneWayRooms
+[2026.01.15-02.35.34:659][417]LogWorld: UWorld::CleanupWorld for L_OneWayRooms, bSessionEnded=true, bCleanupResources=true
+[2026.01.15-02.35.34:660][417]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.15-02.35.34:665][417]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.15-02.35.34:677][417]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.15-02.35.34:703][417]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.01.15-02.35.34:703][417]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2026.01.15-02.35.34:703][417]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12, StreamState=4
+[2026.01.15-02.35.34:705][417]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12, StreamState=2
+[2026.01.15-02.35.34:710][417]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.15-02.35.34:714][417]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2026.01.15-02.35.34:817][418]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2026.01.15-02.36.16:133][833]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2026.01.15-02.36.16:135][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/L_OneWayRooms" FILE="../../../../midterm_prototype/Saved/Autosaves/Game/L_OneWayRooms_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2026.01.15-02.36.16:152][833]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/L_OneWayRooms_Auto6
+[2026.01.15-02.36.16:152][833]LogSavePackage: Moving '../../../../midterm_prototype/Saved/L_OneWayRooms_Auto672CC07AB4AB9140737D28CAA3A11B050.tmp' to '../../../../midterm_prototype/Saved/Autosaves/Game/L_OneWayRooms_Auto6.umap'
+[2026.01.15-02.36.16:153][833]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/L_OneWayRooms' took 0.048
+[2026.01.15-02.36.16:153][833]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.048
+[2026.01.15-02.36.16:153][833]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_GENERATED/40411/Box_F5991D1E] ([1] browsable assets)...
+[2026.01.15-02.36.16:153][833]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/40411/Box_F5991D1E]
+[2026.01.15-02.36.16:153][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_GENERATED/40411/Box_F5991D1E" FILE="../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Box_F5991D1E_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2026.01.15-02.36.16:161][833]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/40411/Box_F5991D1E_Auto6
+[2026.01.15-02.36.16:162][833]LogSavePackage: Moving '../../../../midterm_prototype/Saved/Box_F5991D1E_Auto6B5B7E84E43F803C28A7CF19724DD1E38.tmp' to '../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Box_F5991D1E_Auto6.uasset'
+[2026.01.15-02.36.16:162][833]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_GENERATED/40411/Box_E760B9A7] ([1] browsable assets)...
+[2026.01.15-02.36.16:162][833]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/40411/Box_E760B9A7]
+[2026.01.15-02.36.16:162][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_GENERATED/40411/Box_E760B9A7" FILE="../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Box_E760B9A7_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2026.01.15-02.36.16:173][833]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/40411/Box_E760B9A7_Auto6
+[2026.01.15-02.36.16:173][833]LogSavePackage: Moving '../../../../midterm_prototype/Saved/Box_E760B9A7_Auto6C5B9BC0048C0965BC1D23690A53101D1.tmp' to '../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Box_E760B9A7_Auto6.uasset'
+[2026.01.15-02.36.16:175][833]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_GENERATED/40411/Box_42AC615D] ([1] browsable assets)...
+[2026.01.15-02.36.16:175][833]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/40411/Box_42AC615D]
+[2026.01.15-02.36.16:175][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_GENERATED/40411/Box_42AC615D" FILE="../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Box_42AC615D_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2026.01.15-02.36.16:182][833]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/40411/Box_42AC615D_Auto6
+[2026.01.15-02.36.16:182][833]LogSavePackage: Moving '../../../../midterm_prototype/Saved/Box_42AC615D_Auto6E996D5934188007EB1D073AF2306CE38.tmp' to '../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Box_42AC615D_Auto6.uasset'
+[2026.01.15-02.36.16:183][833]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_GENERATED/40411/Boolean_B6A5D405] ([1] browsable assets)...
+[2026.01.15-02.36.16:183][833]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/40411/Boolean_B6A5D405]
+[2026.01.15-02.36.16:183][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_GENERATED/40411/Boolean_B6A5D405" FILE="../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Boolean_B6A5D405_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2026.01.15-02.36.16:193][833]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/40411/Boolean_B6A5D405_Auto6
+[2026.01.15-02.36.16:193][833]LogSavePackage: Moving '../../../../midterm_prototype/Saved/Boolean_B6A5D405_Auto6779AFE854B8D079C15FC45987CD14C24.tmp' to '../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Boolean_B6A5D405_Auto6.uasset'
+[2026.01.15-02.36.16:194][833]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_GENERATED/40411/Box_857B5FE9] ([1] browsable assets)...
+[2026.01.15-02.36.16:194][833]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/40411/Box_857B5FE9]
+[2026.01.15-02.36.16:194][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_GENERATED/40411/Box_857B5FE9" FILE="../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Box_857B5FE9_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2026.01.15-02.36.16:201][833]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/40411/Box_857B5FE9_Auto6
+[2026.01.15-02.36.16:201][833]LogSavePackage: Moving '../../../../midterm_prototype/Saved/Box_857B5FE9_Auto6321904EE4C0DBE41737A268C35774B28.tmp' to '../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Box_857B5FE9_Auto6.uasset'
+[2026.01.15-02.36.16:202][833]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_GENERATED/40411/Box_7F2D214D] ([1] browsable assets)...
+[2026.01.15-02.36.16:278][833]LogPSOHitching: Encountered 900 PSO creation hitches so far (402 graphics, 498 compute). 0 of them were precached.
+[2026.01.15-02.36.16:411][833]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/_GENERATED/40411/Box_7F2D214D.Box_7F2D214D]
+[2026.01.15-02.36.16:411][833]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/40411/Box_7F2D214D]
+[2026.01.15-02.36.16:412][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_GENERATED/40411/Box_7F2D214D" FILE="../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Box_7F2D214D_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2026.01.15-02.36.16:424][833]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/40411/Box_7F2D214D_Auto6
+[2026.01.15-02.36.16:424][833]LogSavePackage: Moving '../../../../midterm_prototype/Saved/Box_7F2D214D_Auto6E47307504C26479BDE05FEB57DDFF560.tmp' to '../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Box_7F2D214D_Auto6.uasset'
+[2026.01.15-02.36.16:425][833]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_GENERATED/40411/Boolean_715E0EFD] ([1] browsable assets)...
+[2026.01.15-02.36.16:435][833]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/_GENERATED/40411/Boolean_715E0EFD.Boolean_715E0EFD]
+[2026.01.15-02.36.16:435][833]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/40411/Boolean_715E0EFD]
+[2026.01.15-02.36.16:435][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_GENERATED/40411/Boolean_715E0EFD" FILE="../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Boolean_715E0EFD_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2026.01.15-02.36.16:445][833]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/40411/Boolean_715E0EFD_Auto6
+[2026.01.15-02.36.16:445][833]LogSavePackage: Moving '../../../../midterm_prototype/Saved/Boolean_715E0EFD_Auto605AF718944BD31E3ECAEF4B9DE18B8F6.tmp' to '../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Boolean_715E0EFD_Auto6.uasset'
+[2026.01.15-02.36.16:446][833]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_GENERATED/40411/Box_13EE73CF] ([1] browsable assets)...
+[2026.01.15-02.36.16:455][833]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/_GENERATED/40411/Box_13EE73CF.Box_13EE73CF]
+[2026.01.15-02.36.16:455][833]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/40411/Box_13EE73CF]
+[2026.01.15-02.36.16:455][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_GENERATED/40411/Box_13EE73CF" FILE="../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Box_13EE73CF_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2026.01.15-02.36.16:465][833]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/40411/Box_13EE73CF_Auto6
+[2026.01.15-02.36.16:465][833]LogSavePackage: Moving '../../../../midterm_prototype/Saved/Box_13EE73CF_Auto6D110D2074B04660C6E58F5AF82D8DF36.tmp' to '../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Box_13EE73CF_Auto6.uasset'
+[2026.01.15-02.36.16:465][833]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_GENERATED/40411/Boolean_03C19031] ([1] browsable assets)...
+[2026.01.15-02.36.16:475][833]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/_GENERATED/40411/Boolean_03C19031.Boolean_03C19031]
+[2026.01.15-02.36.16:475][833]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/40411/Boolean_03C19031]
+[2026.01.15-02.36.16:475][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_GENERATED/40411/Boolean_03C19031" FILE="../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Boolean_03C19031_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2026.01.15-02.36.16:487][833]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/40411/Boolean_03C19031_Auto6
+[2026.01.15-02.36.16:487][833]LogSavePackage: Moving '../../../../midterm_prototype/Saved/Boolean_03C19031_Auto6C38DE134494ACBCA14D96D9E02544066.tmp' to '../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Boolean_03C19031_Auto6.uasset'
+[2026.01.15-02.36.16:487][833]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_GENERATED/40411/Box_E6DF8B37] ([1] browsable assets)...
+[2026.01.15-02.36.16:497][833]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/_GENERATED/40411/Box_E6DF8B37.Box_E6DF8B37]
+[2026.01.15-02.36.16:497][833]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/40411/Box_E6DF8B37]
+[2026.01.15-02.36.16:497][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_GENERATED/40411/Box_E6DF8B37" FILE="../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Box_E6DF8B37_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2026.01.15-02.36.16:507][833]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/40411/Box_E6DF8B37_Auto6
+[2026.01.15-02.36.16:507][833]LogSavePackage: Moving '../../../../midterm_prototype/Saved/Box_E6DF8B37_Auto6EA0E7870433C42E3A2D1369AD44614C3.tmp' to '../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Box_E6DF8B37_Auto6.uasset'
+[2026.01.15-02.36.16:508][833]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_GENERATED/40411/Boolean_7980F55C] ([1] browsable assets)...
+[2026.01.15-02.36.16:518][833]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/_GENERATED/40411/Boolean_7980F55C.Boolean_7980F55C]
+[2026.01.15-02.36.16:518][833]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/40411/Boolean_7980F55C]
+[2026.01.15-02.36.16:518][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_GENERATED/40411/Boolean_7980F55C" FILE="../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Boolean_7980F55C_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2026.01.15-02.36.16:528][833]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/40411/Boolean_7980F55C_Auto6
+[2026.01.15-02.36.16:528][833]LogSavePackage: Moving '../../../../midterm_prototype/Saved/Boolean_7980F55C_Auto645B484DC42D625067FC860BCB7A76CA6.tmp' to '../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Boolean_7980F55C_Auto6.uasset'
+[2026.01.15-02.36.16:529][833]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_GENERATED/40411/Cone_2E7A387C] ([1] browsable assets)...
+[2026.01.15-02.36.16:539][833]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/_GENERATED/40411/Cone_2E7A387C.Cone_2E7A387C]
+[2026.01.15-02.36.16:539][833]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/40411/Cone_2E7A387C]
+[2026.01.15-02.36.16:539][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_GENERATED/40411/Cone_2E7A387C" FILE="../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Cone_2E7A387C_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2026.01.15-02.36.16:549][833]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/40411/Cone_2E7A387C_Auto6
+[2026.01.15-02.36.16:549][833]LogSavePackage: Moving '../../../../midterm_prototype/Saved/Cone_2E7A387C_Auto6E0C0091349081C3E5D821290266F7D7F.tmp' to '../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Cone_2E7A387C_Auto6.uasset'
+[2026.01.15-02.36.16:550][833]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_GENERATED/40411/Boolean_2A071AB2] ([1] browsable assets)...
+[2026.01.15-02.36.16:559][833]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/_GENERATED/40411/Boolean_2A071AB2.Boolean_2A071AB2]
+[2026.01.15-02.36.16:559][833]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/40411/Boolean_2A071AB2]
+[2026.01.15-02.36.16:559][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_GENERATED/40411/Boolean_2A071AB2" FILE="../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Boolean_2A071AB2_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2026.01.15-02.36.16:568][833]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/40411/Boolean_2A071AB2_Auto6
+[2026.01.15-02.36.16:568][833]LogSavePackage: Moving '../../../../midterm_prototype/Saved/Boolean_2A071AB2_Auto6577395FC4DCD9A608D852FA1F14666E4.tmp' to '../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Boolean_2A071AB2_Auto6.uasset'
+[2026.01.15-02.36.16:569][833]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_GENERATED/40411/Box_8FA2E34C] ([1] browsable assets)...
+[2026.01.15-02.36.16:576][833]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/_GENERATED/40411/Box_8FA2E34C.Box_8FA2E34C]
+[2026.01.15-02.36.16:578][833]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/40411/Box_8FA2E34C]
+[2026.01.15-02.36.16:578][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_GENERATED/40411/Box_8FA2E34C" FILE="../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Box_8FA2E34C_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2026.01.15-02.36.16:586][833]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/40411/Box_8FA2E34C_Auto6
+[2026.01.15-02.36.16:586][833]LogSavePackage: Moving '../../../../midterm_prototype/Saved/Box_8FA2E34C_Auto6C467AF204BC74FE5EFE6D589C0440FA7.tmp' to '../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Box_8FA2E34C_Auto6.uasset'
+[2026.01.15-02.36.16:587][833]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_GENERATED/40411/Boolean_F1DD2A7F] ([1] browsable assets)...
+[2026.01.15-02.36.16:595][833]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/_GENERATED/40411/Boolean_F1DD2A7F.Boolean_F1DD2A7F]
+[2026.01.15-02.36.16:596][833]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/40411/Boolean_F1DD2A7F]
+[2026.01.15-02.36.16:596][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_GENERATED/40411/Boolean_F1DD2A7F" FILE="../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Boolean_F1DD2A7F_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2026.01.15-02.36.16:606][833]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/40411/Boolean_F1DD2A7F_Auto6
+[2026.01.15-02.36.16:606][833]LogSavePackage: Moving '../../../../midterm_prototype/Saved/Boolean_F1DD2A7F_Auto69BF97B8D43B5D751C8B50B876D4D7568.tmp' to '../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Boolean_F1DD2A7F_Auto6.uasset'
+[2026.01.15-02.36.16:606][833]LogFileHelpers: Auto-saving content packages took 0.455
+[2026.01.15-02.37.13:536][246]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12680.483398
+[2026.01.15-02.37.13:619][251]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.15-02.37.13:619][251]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12680.552734, Update Interval: 345.043488
+[2026.01.15-02.38.00:543][ 43]Cmd: DUPLICATE
+[2026.01.15-02.38.00:543][ 43]Cmd: ACTOR DUPLICATE
+[2026.01.15-02.39.59:747][ 92]Cmd: DUPLICATE
+[2026.01.15-02.39.59:747][ 92]Cmd: ACTOR DUPLICATE
+[2026.01.15-02.42.08:073][612]Cmd: DUPLICATE
+[2026.01.15-02.42.08:073][612]Cmd: ACTOR DUPLICATE
+[2026.01.15-02.43.26:710][215]Cmd: DUPLICATE
+[2026.01.15-02.43.26:711][215]Cmd: ACTOR DUPLICATE
+[2026.01.15-02.43.34:393][668]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13061.333984
+[2026.01.15-02.43.34:492][674]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.15-02.43.34:492][674]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13061.414062, Update Interval: 330.418396
+[2026.01.15-02.44.38:898][445]Cmd: DUPLICATE
+[2026.01.15-02.44.38:898][445]Cmd: ACTOR DUPLICATE
+[2026.01.15-02.45.40:435][ 69]Cmd: TRANSACTION UNDO
+[2026.01.15-02.45.40:435][ 69]LogEditorTransaction: Undo Clicking on Elements
+[2026.01.15-02.45.41:277][100]Cmd: TRANSACTION UNDO
+[2026.01.15-02.45.41:278][100]LogEditorTransaction: Undo Move Elements
+[2026.01.15-02.45.42:154][151]Cmd: TRANSACTION UNDO
+[2026.01.15-02.45.42:154][151]LogEditorTransaction: Undo Scale Elements
