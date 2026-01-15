@@ -3146,3 +3146,364 @@ The following settings have been applied:
 [2026.01.15-02.45.41:278][100]LogEditorTransaction: Undo Move Elements
 [2026.01.15-02.45.42:154][151]Cmd: TRANSACTION UNDO
 [2026.01.15-02.45.42:154][151]LogEditorTransaction: Undo Scale Elements
+[2026.01.15-02.47.04:450][ 30]Cmd: DUPLICATE
+[2026.01.15-02.47.04:450][ 30]Cmd: ACTOR DUPLICATE
+[2026.01.15-02.47.05:768][104]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.15-02.47.05:798][104]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/L_OneWayRooms" FILE="../../../../midterm_prototype/Content/L_OneWayRooms.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.01.15-02.47.05:850][104]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2026.01.15-02.47.05:869][104]LogSavePackage: Moving output files for package: /Game/L_OneWayRooms
+[2026.01.15-02.47.05:869][104]LogSavePackage: Moving '../../../../midterm_prototype/Saved/L_OneWayRoomsDD1CE2934EDB6B720D15799E7B1C40E3.tmp' to '../../../../midterm_prototype/Content/L_OneWayRooms.umap'
+[2026.01.15-02.47.05:878][104]LogFileHelpers: Saving map 'L_OneWayRooms' took 0.081
+[2026.01.15-02.47.05:892][104]LogFileHelpers: InternalPromptForCheckoutAndSave took 124.178 ms (total: 881.521 ms)
+[2026.01.15-02.47.05:930][104]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.15-02.47.05:930][104]LogContentValidation: Enabled validators:
+[2026.01.15-02.47.05:930][104]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.15-02.47.05:930][104]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.15-02.47.05:930][104]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.15-02.47.05:930][104]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.15-02.47.05:930][104]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.15-02.47.05:930][104]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.15-02.47.05:930][104]AssetCheck: /Game/L_OneWayRooms Validating asset
+[2026.01.15-02.49.44:494][603]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13431.443359
+[2026.01.15-02.49.44:577][608]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.15-02.49.44:577][608]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13431.510742, Update Interval: 350.928680
+[2026.01.15-02.56.30:984][989]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13837.999023
+[2026.01.15-02.56.31:101][997]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.15-02.56.31:101][997]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13838.099609, Update Interval: 335.485107
+[2026.01.15-02.57.05:969][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2026.01.15-02.57.05:972][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/L_OneWayRooms" FILE="../../../../midterm_prototype/Saved/Autosaves/Game/L_OneWayRooms_Auto7.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2026.01.15-02.57.05:997][ 69]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/L_OneWayRooms_Auto7
+[2026.01.15-02.57.05:997][ 69]LogSavePackage: Moving '../../../../midterm_prototype/Saved/L_OneWayRooms_Auto7E563A8EA449A58A9D1D096BDFF1A6920.tmp' to '../../../../midterm_prototype/Saved/Autosaves/Game/L_OneWayRooms_Auto7.umap'
+[2026.01.15-02.57.05:997][ 69]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/L_OneWayRooms' took 0.063
+[2026.01.15-02.57.05:998][ 69]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.063
+[2026.01.15-02.57.05:998][ 69]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_GENERATED/40411/Box_F5991D1E] ([1] browsable assets)...
+[2026.01.15-02.57.05:998][ 69]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/40411/Box_F5991D1E]
+[2026.01.15-02.57.05:998][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_GENERATED/40411/Box_F5991D1E" FILE="../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Box_F5991D1E_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2026.01.15-02.57.06:008][ 69]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/40411/Box_F5991D1E_Auto7
+[2026.01.15-02.57.06:008][ 69]LogSavePackage: Moving '../../../../midterm_prototype/Saved/Box_F5991D1E_Auto7A7ADD6D041934F8F8561FF8DEC66687B.tmp' to '../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Box_F5991D1E_Auto7.uasset'
+[2026.01.15-02.57.06:009][ 69]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_GENERATED/40411/Box_E760B9A7] ([1] browsable assets)...
+[2026.01.15-02.57.06:009][ 69]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/40411/Box_E760B9A7]
+[2026.01.15-02.57.06:009][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_GENERATED/40411/Box_E760B9A7" FILE="../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Box_E760B9A7_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2026.01.15-02.57.06:019][ 69]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/40411/Box_E760B9A7_Auto7
+[2026.01.15-02.57.06:019][ 69]LogSavePackage: Moving '../../../../midterm_prototype/Saved/Box_E760B9A7_Auto77BFC12044CF3D1258C5F978BD9C3D56D.tmp' to '../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Box_E760B9A7_Auto7.uasset'
+[2026.01.15-02.57.06:020][ 69]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_GENERATED/40411/Box_42AC615D] ([1] browsable assets)...
+[2026.01.15-02.57.06:020][ 69]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/40411/Box_42AC615D]
+[2026.01.15-02.57.06:020][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_GENERATED/40411/Box_42AC615D" FILE="../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Box_42AC615D_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2026.01.15-02.57.06:029][ 69]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/40411/Box_42AC615D_Auto7
+[2026.01.15-02.57.06:029][ 69]LogSavePackage: Moving '../../../../midterm_prototype/Saved/Box_42AC615D_Auto75AB0D7794DB5D62F11F710BB82F68754.tmp' to '../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Box_42AC615D_Auto7.uasset'
+[2026.01.15-02.57.06:029][ 69]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_GENERATED/40411/Boolean_B6A5D405] ([1] browsable assets)...
+[2026.01.15-02.57.06:029][ 69]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/40411/Boolean_B6A5D405]
+[2026.01.15-02.57.06:030][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_GENERATED/40411/Boolean_B6A5D405" FILE="../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Boolean_B6A5D405_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2026.01.15-02.57.06:039][ 69]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/40411/Boolean_B6A5D405_Auto7
+[2026.01.15-02.57.06:039][ 69]LogSavePackage: Moving '../../../../midterm_prototype/Saved/Boolean_B6A5D405_Auto7E8C118B543B90F280BD1F7BAAB4F7673.tmp' to '../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Boolean_B6A5D405_Auto7.uasset'
+[2026.01.15-02.57.06:039][ 69]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_GENERATED/40411/Box_857B5FE9] ([1] browsable assets)...
+[2026.01.15-02.57.06:039][ 69]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/40411/Box_857B5FE9]
+[2026.01.15-02.57.06:039][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_GENERATED/40411/Box_857B5FE9" FILE="../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Box_857B5FE9_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2026.01.15-02.57.06:047][ 69]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/40411/Box_857B5FE9_Auto7
+[2026.01.15-02.57.06:047][ 69]LogSavePackage: Moving '../../../../midterm_prototype/Saved/Box_857B5FE9_Auto766D17E8D4B4FA4D7A12C41B6827928D4.tmp' to '../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Box_857B5FE9_Auto7.uasset'
+[2026.01.15-02.57.06:048][ 69]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_GENERATED/40411/Box_7F2D214D] ([1] browsable assets)...
+[2026.01.15-02.57.06:048][ 69]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/40411/Box_7F2D214D]
+[2026.01.15-02.57.06:048][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_GENERATED/40411/Box_7F2D214D" FILE="../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Box_7F2D214D_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2026.01.15-02.57.06:056][ 69]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/40411/Box_7F2D214D_Auto7
+[2026.01.15-02.57.06:056][ 69]LogSavePackage: Moving '../../../../midterm_prototype/Saved/Box_7F2D214D_Auto7C232EAFF41CDB7340E300CBE4008D9E0.tmp' to '../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Box_7F2D214D_Auto7.uasset'
+[2026.01.15-02.57.06:058][ 69]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_GENERATED/40411/Boolean_715E0EFD] ([1] browsable assets)...
+[2026.01.15-02.57.06:058][ 69]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/40411/Boolean_715E0EFD]
+[2026.01.15-02.57.06:058][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_GENERATED/40411/Boolean_715E0EFD" FILE="../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Boolean_715E0EFD_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2026.01.15-02.57.06:065][ 69]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/40411/Boolean_715E0EFD_Auto7
+[2026.01.15-02.57.06:065][ 69]LogSavePackage: Moving '../../../../midterm_prototype/Saved/Boolean_715E0EFD_Auto7FC2392B8462FB2659FD09D92DB25043C.tmp' to '../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Boolean_715E0EFD_Auto7.uasset'
+[2026.01.15-02.57.06:066][ 69]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_GENERATED/40411/Box_13EE73CF] ([1] browsable assets)...
+[2026.01.15-02.57.06:066][ 69]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/40411/Box_13EE73CF]
+[2026.01.15-02.57.06:066][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_GENERATED/40411/Box_13EE73CF" FILE="../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Box_13EE73CF_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2026.01.15-02.57.06:074][ 69]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/40411/Box_13EE73CF_Auto7
+[2026.01.15-02.57.06:074][ 69]LogSavePackage: Moving '../../../../midterm_prototype/Saved/Box_13EE73CF_Auto70CAF9A924E0A040477967D94E58C68C6.tmp' to '../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Box_13EE73CF_Auto7.uasset'
+[2026.01.15-02.57.06:075][ 69]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_GENERATED/40411/Boolean_03C19031] ([1] browsable assets)...
+[2026.01.15-02.57.06:075][ 69]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/40411/Boolean_03C19031]
+[2026.01.15-02.57.06:075][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_GENERATED/40411/Boolean_03C19031" FILE="../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Boolean_03C19031_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2026.01.15-02.57.06:085][ 69]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/40411/Boolean_03C19031_Auto7
+[2026.01.15-02.57.06:085][ 69]LogSavePackage: Moving '../../../../midterm_prototype/Saved/Boolean_03C19031_Auto7D4BDEA694FDD75650D9FF8AECF1545E1.tmp' to '../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Boolean_03C19031_Auto7.uasset'
+[2026.01.15-02.57.06:085][ 69]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_GENERATED/40411/Box_E6DF8B37] ([1] browsable assets)...
+[2026.01.15-02.57.06:085][ 69]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/40411/Box_E6DF8B37]
+[2026.01.15-02.57.06:085][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_GENERATED/40411/Box_E6DF8B37" FILE="../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Box_E6DF8B37_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2026.01.15-02.57.06:095][ 69]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/40411/Box_E6DF8B37_Auto7
+[2026.01.15-02.57.06:095][ 69]LogSavePackage: Moving '../../../../midterm_prototype/Saved/Box_E6DF8B37_Auto780116FF24A36A55F14002A990E784D1E.tmp' to '../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Box_E6DF8B37_Auto7.uasset'
+[2026.01.15-02.57.06:096][ 69]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_GENERATED/40411/Boolean_7980F55C] ([1] browsable assets)...
+[2026.01.15-02.57.06:096][ 69]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/40411/Boolean_7980F55C]
+[2026.01.15-02.57.06:096][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_GENERATED/40411/Boolean_7980F55C" FILE="../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Boolean_7980F55C_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2026.01.15-02.57.06:106][ 69]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/40411/Boolean_7980F55C_Auto7
+[2026.01.15-02.57.06:106][ 69]LogSavePackage: Moving '../../../../midterm_prototype/Saved/Boolean_7980F55C_Auto72645C3C2456142FBBD1C528DDC7F5F46.tmp' to '../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Boolean_7980F55C_Auto7.uasset'
+[2026.01.15-02.57.06:107][ 69]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_GENERATED/40411/Cone_2E7A387C] ([1] browsable assets)...
+[2026.01.15-02.57.06:107][ 69]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/40411/Cone_2E7A387C]
+[2026.01.15-02.57.06:107][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_GENERATED/40411/Cone_2E7A387C" FILE="../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Cone_2E7A387C_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2026.01.15-02.57.06:117][ 69]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/40411/Cone_2E7A387C_Auto7
+[2026.01.15-02.57.06:117][ 69]LogSavePackage: Moving '../../../../midterm_prototype/Saved/Cone_2E7A387C_Auto704A3ED0E401B359C78DACCB4032B6C78.tmp' to '../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Cone_2E7A387C_Auto7.uasset'
+[2026.01.15-02.57.06:118][ 69]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_GENERATED/40411/Boolean_2A071AB2] ([1] browsable assets)...
+[2026.01.15-02.57.06:118][ 69]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/40411/Boolean_2A071AB2]
+[2026.01.15-02.57.06:118][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_GENERATED/40411/Boolean_2A071AB2" FILE="../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Boolean_2A071AB2_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2026.01.15-02.57.06:128][ 69]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/40411/Boolean_2A071AB2_Auto7
+[2026.01.15-02.57.06:128][ 69]LogSavePackage: Moving '../../../../midterm_prototype/Saved/Boolean_2A071AB2_Auto7E76AA37741DB9A1D402C94BA3213C88C.tmp' to '../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Boolean_2A071AB2_Auto7.uasset'
+[2026.01.15-02.57.06:129][ 69]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_GENERATED/40411/Box_8FA2E34C] ([1] browsable assets)...
+[2026.01.15-02.57.06:129][ 69]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/40411/Box_8FA2E34C]
+[2026.01.15-02.57.06:129][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_GENERATED/40411/Box_8FA2E34C" FILE="../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Box_8FA2E34C_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2026.01.15-02.57.06:141][ 69]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/40411/Box_8FA2E34C_Auto7
+[2026.01.15-02.57.06:141][ 69]LogSavePackage: Moving '../../../../midterm_prototype/Saved/Box_8FA2E34C_Auto79A26B7F743BB4771861739BEBCDC567D.tmp' to '../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Box_8FA2E34C_Auto7.uasset'
+[2026.01.15-02.57.06:142][ 69]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_GENERATED/40411/Boolean_F1DD2A7F] ([1] browsable assets)...
+[2026.01.15-02.57.06:142][ 69]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/40411/Boolean_F1DD2A7F]
+[2026.01.15-02.57.06:142][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_GENERATED/40411/Boolean_F1DD2A7F" FILE="../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Boolean_F1DD2A7F_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2026.01.15-02.57.06:150][ 69]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/40411/Boolean_F1DD2A7F_Auto7
+[2026.01.15-02.57.06:150][ 69]LogSavePackage: Moving '../../../../midterm_prototype/Saved/Boolean_F1DD2A7F_Auto7F46E1EA64279C8C1F48A41AA31982722.tmp' to '../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Boolean_F1DD2A7F_Auto7.uasset'
+[2026.01.15-02.57.06:150][ 69]LogFileHelpers: Auto-saving content packages took 0.153
+[2026.01.15-03.02.37:786][917]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14204.810547
+[2026.01.15-03.02.37:870][923]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.15-03.02.37:870][923]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14204.876953, Update Interval: 353.975647
+[2026.01.15-03.13.52:046][ 47]LogPSOHitching: Encountered 950 PSO creation hitches so far (433 graphics, 517 compute). 0 of them were precached.
+[2026.01.15-03.14.44:610][ 23]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14931.688477
+[2026.01.15-03.14.44:694][ 28]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.15-03.14.44:694][ 28]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14931.755859, Update Interval: 357.381500
+[2026.01.15-03.15.21:180][213]LogInteractiveToolsContext: Display: This Tool creates new shapes. Click in the scene to choose initial placement of mesh.
+[2026.01.15-03.15.21:181][213]LogInteractiveToolsContext: Display: This Tool creates new shapes. Click in the scene to choose initial placement of mesh.
+[2026.01.15-03.15.22:531][292]LogInteractiveToolsContext: Display: Alter shape settings in the detail panel or modify placement with gizmo, then accept the tool.
+[2026.01.15-03.17.23:968][555]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/_GENERATED/40411/Cone_99AED10F.Cone_99AED10F
+[2026.01.15-03.17.23:968][555]LogStaticMesh: Display: Building static mesh Cone_99AED10F (Required Memory Estimate: 0.214464 MB)...
+[2026.01.15-03.17.23:970][555]LogActorFactory: Actor Factory spawned StaticMesh /Game/_GENERATED/40411/Cone_99AED10F.Cone_99AED10F as actor: StaticMeshActor /Game/L_OneWayRooms.L_OneWayRooms:PersistentLevel.StaticMeshActor_30
+[2026.01.15-03.17.23:970][555]LogStaticMesh: Built static mesh [0.00s] /Game/_GENERATED/40411/Cone_99AED10F.Cone_99AED10F
+[2026.01.15-03.17.24:470][557]LogPSOHitching: Encountered 1000 PSO creation hitches so far (462 graphics, 538 compute). 0 of them were precached.
+[2026.01.15-03.17.52:991][253]LogInteractiveToolsContext: Display: Select PolyGroups to edit mesh. Use middle mouse on gizmo to reposition it. Hold Ctrl while translating or (in local mode) rotating to align to scene. Shift and Ctrl change marquee select behavior. Ctrl+R toggles Gizmo Orientation Lock.
+[2026.01.15-03.17.52:991][253]LogInteractiveToolsContext: Warning: 
+[2026.01.15-03.17.52:992][253]LogStreaming: Display: FlushAsyncLoading(583): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.15-03.18.34:806][701]LogInteractiveToolsContext: Warning: 
+[2026.01.15-03.18.34:807][701]LogInteractiveToolsContext: Display: Select PolyGroups to edit mesh. Use middle mouse on gizmo to reposition it. Hold Ctrl while translating or (in local mode) rotating to align to scene. Shift and Ctrl change marquee select behavior. Ctrl+R toggles Gizmo Orientation Lock.
+[2026.01.15-03.18.41:967][125]LogInteractiveToolsContext: Display: Select PolyGroups to edit mesh. Use middle mouse on gizmo to reposition it. Hold Ctrl while translating or (in local mode) rotating to align to scene. Shift and Ctrl change marquee select behavior. Ctrl+R toggles Gizmo Orientation Lock.
+[2026.01.15-03.19.45:088][803]LogShaderCompilers: Display: ================================================
+[2026.01.15-03.19.45:088][803]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.01.15-03.19.45:088][803]LogShaderCompilers: Display: Total job queries 18,488, among them cache hits 4,877 (26.38%), DDC hits 12,380 (66.96%), Duplicates 564 (3.05%)
+[2026.01.15-03.19.45:088][803]LogShaderCompilers: Display: Tracking 13,047 distinct input hashes that result in 11,937 distinct outputs (91.49%)
+[2026.01.15-03.19.45:088][803]LogShaderCompilers: Display: RAM used: 158.93 MiB of 1.60 GiB budget. Usage: 9.70%
+[2026.01.15-03.19.45:088][803]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.01.15-03.19.45:088][803]LogShaderCompilers: Display: Shaders Compiled: 667
+[2026.01.15-03.19.45:088][803]LogShaderCompilers: Display: Jobs assigned 667, completed 667 (100%)
+[2026.01.15-03.19.45:088][803]LogShaderCompilers: Display: Average time worker was idle: 318.83 s
+[2026.01.15-03.19.45:088][803]LogShaderCompilers: Display: Time job spent in pending queue: average 10.25 s, longest 46.14 s
+[2026.01.15-03.19.45:088][803]LogShaderCompilers: Display: Job execution time: average 6.28 s, max 31.11 s
+[2026.01.15-03.19.45:088][803]LogShaderCompilers: Display: Job life time (pending + execution): average 16.53 s, max 48.49
+[2026.01.15-03.19.45:088][803]LogShaderCompilers: Display: Shader code size: total 10.147 MiB, numShaders 701, average 14.823 KiB, min 1.727 KiB, max 55.505 KiB
+[2026.01.15-03.19.45:088][803]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 177.24 s
+[2026.01.15-03.19.45:088][803]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2026.01.15-03.19.45:088][803]LogShaderCompilers: Display: Jobs were issued in 223 batches (only local compilation was used), average 2.99 jobs/batch
+[2026.01.15-03.19.45:088][803]LogShaderCompilers: Display: Average processing rate: 3.76 jobs/sec
+[2026.01.15-03.19.45:088][803]LogShaderCompilers: Display: Total thread time: 745.052 s
+[2026.01.15-03.19.45:088][803]LogShaderCompilers: Display: Total thread preprocess time: 202.836 s
+[2026.01.15-03.19.45:088][803]LogShaderCompilers: Display: Percentage time preprocessing: 27.22%
+[2026.01.15-03.19.45:088][803]LogShaderCompilers: Display: Effective parallelization: 4.20 (times faster than compiling all shaders on one thread). Compare with number of workers: 4 - 1.050927
+[2026.01.15-03.19.45:088][803]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.01.15-03.19.45:088][803]LogShaderCompilers: Display:                                     FLumenInitialSamplingRGS (compiled    1 times, average 4.64 sec, max 4.64 sec, min 4.64 sec)
+[2026.01.15-03.19.45:088][803]LogShaderCompilers: Display:                         FLumenVisualizeHardwareRayTracingRGS (compiled    8 times, average 4.42 sec, max 5.30 sec, min 3.54 sec)
+[2026.01.15-03.19.45:088][803]LogShaderCompilers: Display:                  FRayTracedTranslucencyHardwareRayTracingRGS (compiled    4 times, average 4.31 sec, max 5.92 sec, min 3.49 sec)
+[2026.01.15-03.19.45:088][803]LogShaderCompilers: Display:                        FLumenReflectionHardwareRayTracingRGS (compiled   80 times, average 2.81 sec, max 5.86 sec, min 2.09 sec)
+[2026.01.15-03.19.45:088][803]LogShaderCompilers: Display:                                        FRayTracingLightingMS (compiled    1 times, average 2.29 sec, max 2.29 sec, min 2.29 sec)
+[2026.01.15-03.19.45:088][803]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.01.15-03.19.45:088][803]LogShaderCompilers: Display:                        FLumenReflectionHardwareRayTracingRGS - 30.22% of total time (compiled   80 times, average 2.81 sec, max 5.86 sec, min 2.09 sec)
+[2026.01.15-03.19.45:088][803]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.12% of total time (compiled   64 times, average 0.83 sec, max 3.03 sec, min 0.34 sec)
+[2026.01.15-03.19.45:088][803]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 5.52% of total time (compiled   25 times, average 1.64 sec, max 4.29 sec, min 0.91 sec)
+[2026.01.15-03.19.45:088][803]LogShaderCompilers: Display:                         FLumenVisualizeHardwareRayTracingRGS - 4.75% of total time (compiled    8 times, average 4.42 sec, max 5.30 sec, min 3.54 sec)
+[2026.01.15-03.19.45:088][803]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 4.31% of total time (compiled   15 times, average 2.14 sec, max 4.83 sec, min 1.13 sec)
+[2026.01.15-03.19.45:088][803]LogShaderCompilers: Display: === Material stats ===
+[2026.01.15-03.19.45:088][803]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.01.15-03.19.45:088][803]LogShaderCompilers: Display: Materials Translated:    212
+[2026.01.15-03.19.45:088][803]LogShaderCompilers: Display: Material Total Translate Time: 0.37 s
+[2026.01.15-03.19.45:088][803]LogShaderCompilers: Display: Material Translation Only: 0.09 s (23%)
+[2026.01.15-03.19.45:088][803]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.01.15-03.19.45:088][803]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.01.15-03.19.45:088][803]LogShaderCompilers: Display: ================================================
+[2026.01.15-03.20.39:427][896]LogDerivedDataCache: C:/Users/40411/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.01.15-03.20.46:485][300]Cmd: TRANSACTION UNDO
+[2026.01.15-03.20.46:485][300]LogEditorTransaction: Undo Transform
+[2026.01.15-03.20.46:980][313]Cmd: TRANSACTION UNDO
+[2026.01.15-03.20.46:980][313]LogEditorTransaction: Undo Selection
+[2026.01.15-03.20.47:384][334]Cmd: TRANSACTION UNDO
+[2026.01.15-03.20.47:384][334]LogEditorTransaction: Undo Selection
+[2026.01.15-03.20.47:735][354]Cmd: TRANSACTION UNDO
+[2026.01.15-03.20.47:735][354]LogEditorTransaction: Undo Selection
+[2026.01.15-03.20.48:106][375]Cmd: TRANSACTION UNDO
+[2026.01.15-03.20.48:106][375]LogEditorTransaction: Undo Transform
+[2026.01.15-03.20.48:465][396]Cmd: TRANSACTION UNDO
+[2026.01.15-03.20.48:465][396]LogEditorTransaction: Undo Selection
+[2026.01.15-03.20.48:857][419]Cmd: TRANSACTION UNDO
+[2026.01.15-03.20.48:857][419]LogEditorTransaction: Undo Transform
+[2026.01.15-03.20.49:227][440]Cmd: TRANSACTION UNDO
+[2026.01.15-03.20.49:227][440]LogEditorTransaction: Undo Selection
+[2026.01.15-03.20.49:796][473]Cmd: TRANSACTION UNDO
+[2026.01.15-03.20.49:796][473]LogEditorTransaction: Undo Selection
+[2026.01.15-03.20.50:298][501]Cmd: TRANSACTION UNDO
+[2026.01.15-03.20.50:298][501]LogEditorTransaction: Undo Selection
+[2026.01.15-03.20.50:737][512]Cmd: TRANSACTION UNDO
+[2026.01.15-03.20.50:738][512]LogEditorTransaction: Undo Transform
+[2026.01.15-03.20.51:142][532]Cmd: TRANSACTION UNDO
+[2026.01.15-03.20.51:142][532]LogEditorTransaction: Undo Selection
+[2026.01.15-03.20.51:616][560]Cmd: TRANSACTION UNDO
+[2026.01.15-03.20.51:616][560]LogEditorTransaction: Undo Selection
+[2026.01.15-03.20.51:991][582]Cmd: TRANSACTION UNDO
+[2026.01.15-03.20.51:991][582]LogEditorTransaction: Undo Transform
+[2026.01.15-03.20.52:316][601]Cmd: TRANSACTION UNDO
+[2026.01.15-03.20.52:316][601]LogEditorTransaction: Undo Selection
+[2026.01.15-03.20.52:693][623]Cmd: TRANSACTION UNDO
+[2026.01.15-03.20.52:693][623]LogEditorTransaction: Undo Selection
+[2026.01.15-03.20.52:993][640]Cmd: TRANSACTION UNDO
+[2026.01.15-03.20.52:993][640]LogEditorTransaction: Undo Selection
+[2026.01.15-03.20.53:313][658]Cmd: TRANSACTION UNDO
+[2026.01.15-03.20.53:314][658]LogEditorTransaction: Undo Transform
+[2026.01.15-03.20.53:602][674]Cmd: TRANSACTION UNDO
+[2026.01.15-03.20.53:602][674]LogEditorTransaction: Undo Selection
+[2026.01.15-03.20.54:036][698]Cmd: TRANSACTION UNDO
+[2026.01.15-03.20.54:036][698]LogEditorTransaction: Undo Transform
+[2026.01.15-03.20.54:352][706]Cmd: TRANSACTION UNDO
+[2026.01.15-03.20.54:352][706]LogEditorTransaction: Undo Selection
+[2026.01.15-03.20.54:515][710]Cmd: TRANSACTION UNDO
+[2026.01.15-03.20.54:515][710]LogEditorTransaction: Undo Selection
+[2026.01.15-03.20.55:010][737]Cmd: TRANSACTION UNDO
+[2026.01.15-03.20.55:010][737]LogEditorTransaction: Undo Selection
+[2026.01.15-03.20.55:395][759]Cmd: TRANSACTION UNDO
+[2026.01.15-03.20.55:395][759]LogEditorTransaction: Undo Selection
+[2026.01.15-03.20.55:817][783]Cmd: TRANSACTION UNDO
+[2026.01.15-03.20.55:817][783]LogEditorTransaction: Undo Selection
+[2026.01.15-03.20.56:173][803]Cmd: TRANSACTION UNDO
+[2026.01.15-03.20.56:173][803]LogEditorTransaction: Undo Transform
+[2026.01.15-03.20.56:528][823]Cmd: TRANSACTION UNDO
+[2026.01.15-03.20.56:528][823]LogEditorTransaction: Undo Selection
+[2026.01.15-03.20.56:915][845]Cmd: TRANSACTION UNDO
+[2026.01.15-03.20.56:915][845]LogEditorTransaction: Undo Transform
+[2026.01.15-03.20.57:125][857]Cmd: TRANSACTION UNDO
+[2026.01.15-03.20.57:125][857]LogEditorTransaction: Undo Selection
+[2026.01.15-03.20.57:520][880]Cmd: TRANSACTION UNDO
+[2026.01.15-03.20.57:520][880]LogEditorTransaction: Undo Transform
+[2026.01.15-03.20.57:768][893]Cmd: TRANSACTION UNDO
+[2026.01.15-03.20.57:768][893]LogEditorTransaction: Undo Selection
+[2026.01.15-03.21.32:012][897]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15339.052734
+[2026.01.15-03.21.32:112][903]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.15-03.21.32:112][903]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15339.135742, Update Interval: 357.438263
+[2026.01.15-03.21.39:208][327]Cmd: TRANSACTION UNDO
+[2026.01.15-03.21.39:208][327]LogEditorTransaction: Undo Transform
+[2026.01.15-03.24.56:263][839]LogStaticMesh: Display: Building static mesh Cone_99AED10F (Required Memory Estimate: 0.234024 MB)...
+[2026.01.15-03.24.56:264][839]LogStaticMesh: Built static mesh [0.00s] /Game/_GENERATED/40411/Cone_99AED10F.Cone_99AED10F
+[2026.01.15-03.24.56:323][839]LogPSOHitching: Encountered 1050 PSO creation hitches so far (494 graphics, 556 compute). 0 of them were precached.
+[2026.01.15-03.25.32:294][946]Cmd: DELETE
+[2026.01.15-03.25.32:294][946]Cmd: ACTOR DELETE
+[2026.01.15-03.25.32:298][946]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.15-03.25.32:332][946]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2026.01.15-03.25.32:336][946]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2026.01.15-03.25.38:793][332]LogInteractiveToolsContext: Display: This Tool creates new shapes. Click in the scene to choose initial placement of mesh.
+[2026.01.15-03.25.38:793][332]LogInteractiveToolsContext: Display: This Tool creates new shapes. Click in the scene to choose initial placement of mesh.
+[2026.01.15-03.25.39:634][380]LogInteractiveToolsContext: Display: Alter shape settings in the detail panel or modify placement with gizmo, then accept the tool.
+[2026.01.15-03.26.30:923][446]LogInteractiveToolsContext: Display: This Tool creates new shapes. Click in the scene to choose initial placement of mesh.
+[2026.01.15-03.26.30:923][446]LogInteractiveToolsContext: Display: This Tool creates new shapes. Click in the scene to choose initial placement of mesh.
+[2026.01.15-03.26.31:786][495]LogInteractiveToolsContext: Display: Alter shape settings in the detail panel or modify placement with gizmo, then accept the tool.
+[2026.01.15-03.27.37:329][406]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/_GENERATED/40411/Cone_3846BBE9.Cone_3846BBE9
+[2026.01.15-03.27.37:330][406]LogStaticMesh: Display: Building static mesh Cone_3846BBE9 (Required Memory Estimate: 0.214464 MB)...
+[2026.01.15-03.27.37:330][406]LogActorFactory: Actor Factory spawned StaticMesh /Game/_GENERATED/40411/Cone_3846BBE9.Cone_3846BBE9 as actor: StaticMeshActor /Game/L_OneWayRooms.L_OneWayRooms:PersistentLevel.StaticMeshActor_31
+[2026.01.15-03.27.37:331][406]LogStaticMesh: Built static mesh [0.00s] /Game/_GENERATED/40411/Cone_3846BBE9.Cone_3846BBE9
+[2026.01.15-03.27.37:646][406]LogInteractiveToolsContext: Display: Select PolyGroups to edit mesh. Use middle mouse on gizmo to reposition it. Hold Ctrl while translating or (in local mode) rotating to align to scene. Shift and Ctrl change marquee select behavior. Ctrl+R toggles Gizmo Orientation Lock.
+[2026.01.15-03.27.37:646][406]LogInteractiveToolsContext: Warning: 
+[2026.01.15-03.27.42:718][702]LogInteractiveToolsContext: Warning: 
+[2026.01.15-03.27.42:718][702]LogInteractiveToolsContext: Display: Select PolyGroups to edit mesh. Use middle mouse on gizmo to reposition it. Hold Ctrl while translating or (in local mode) rotating to align to scene. Shift and Ctrl change marquee select behavior. Ctrl+R toggles Gizmo Orientation Lock.
+[2026.01.15-03.27.49:946][133]LogInteractiveToolsContext: Display: Select PolyGroups to edit mesh. Use middle mouse on gizmo to reposition it. Hold Ctrl while translating or (in local mode) rotating to align to scene. Shift and Ctrl change marquee select behavior. Ctrl+R toggles Gizmo Orientation Lock.
+[2026.01.15-03.27.54:629][411]LogInteractiveToolsContext: Warning: 
+[2026.01.15-03.27.54:629][411]LogInteractiveToolsContext: Display: Select PolyGroups to edit mesh. Use middle mouse on gizmo to reposition it. Hold Ctrl while translating or (in local mode) rotating to align to scene. Shift and Ctrl change marquee select behavior. Ctrl+R toggles Gizmo Orientation Lock.
+[2026.01.15-03.28.13:115][518]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15740.198242
+[2026.01.15-03.28.13:199][523]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.15-03.28.13:199][523]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15740.265625, Update Interval: 350.932343
+[2026.01.15-03.28.21:626][ 28]LogInteractiveToolsContext: Display: Select PolyGroups to edit mesh. Use middle mouse on gizmo to reposition it. Hold Ctrl while translating or (in local mode) rotating to align to scene. Shift and Ctrl change marquee select behavior. Ctrl+R toggles Gizmo Orientation Lock.
+[2026.01.15-03.28.47:563][564]LogStaticMesh: Display: Building static mesh Cone_3846BBE9 (Required Memory Estimate: 0.234024 MB)...
+[2026.01.15-03.28.47:565][564]LogStaticMesh: Built static mesh [0.00s] /Game/_GENERATED/40411/Cone_3846BBE9.Cone_3846BBE9
+[2026.01.15-03.29.19:600][407]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2026.01.15-03.29.19:603][407]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/L_OneWayRooms" FILE="../../../../midterm_prototype/Saved/Autosaves/Game/L_OneWayRooms_Auto8.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2026.01.15-03.29.19:620][407]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/L_OneWayRooms_Auto8
+[2026.01.15-03.29.19:620][407]LogSavePackage: Moving '../../../../midterm_prototype/Saved/L_OneWayRooms_Auto83CD529C14820358F81ADFB9928CBE462.tmp' to '../../../../midterm_prototype/Saved/Autosaves/Game/L_OneWayRooms_Auto8.umap'
+[2026.01.15-03.29.19:621][407]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/L_OneWayRooms' took 0.050
+[2026.01.15-03.29.19:621][407]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.050
+[2026.01.15-03.29.19:621][407]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_GENERATED/40411/Box_F5991D1E] ([1] browsable assets)...
+[2026.01.15-03.29.19:621][407]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/40411/Box_F5991D1E]
+[2026.01.15-03.29.19:621][407]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_GENERATED/40411/Box_F5991D1E" FILE="../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Box_F5991D1E_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2026.01.15-03.29.19:630][407]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/40411/Box_F5991D1E_Auto8
+[2026.01.15-03.29.19:630][407]LogSavePackage: Moving '../../../../midterm_prototype/Saved/Box_F5991D1E_Auto8B6166FE349FF65E3ED563985E0876F0F.tmp' to '../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Box_F5991D1E_Auto8.uasset'
+[2026.01.15-03.29.19:630][407]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_GENERATED/40411/Box_E760B9A7] ([1] browsable assets)...
+[2026.01.15-03.29.19:630][407]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/40411/Box_E760B9A7]
+[2026.01.15-03.29.19:630][407]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_GENERATED/40411/Box_E760B9A7" FILE="../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Box_E760B9A7_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2026.01.15-03.29.19:639][407]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/40411/Box_E760B9A7_Auto8
+[2026.01.15-03.29.19:639][407]LogSavePackage: Moving '../../../../midterm_prototype/Saved/Box_E760B9A7_Auto82D68F4734EEC6AFECE10BEA36203E1C1.tmp' to '../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Box_E760B9A7_Auto8.uasset'
+[2026.01.15-03.29.19:640][407]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_GENERATED/40411/Box_42AC615D] ([1] browsable assets)...
+[2026.01.15-03.29.19:640][407]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/40411/Box_42AC615D]
+[2026.01.15-03.29.19:640][407]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_GENERATED/40411/Box_42AC615D" FILE="../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Box_42AC615D_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2026.01.15-03.29.19:648][407]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/40411/Box_42AC615D_Auto8
+[2026.01.15-03.29.19:648][407]LogSavePackage: Moving '../../../../midterm_prototype/Saved/Box_42AC615D_Auto8E09329554B82C4C7968A399817E66FF6.tmp' to '../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Box_42AC615D_Auto8.uasset'
+[2026.01.15-03.29.19:650][407]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_GENERATED/40411/Boolean_B6A5D405] ([1] browsable assets)...
+[2026.01.15-03.29.19:650][407]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/40411/Boolean_B6A5D405]
+[2026.01.15-03.29.19:650][407]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_GENERATED/40411/Boolean_B6A5D405" FILE="../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Boolean_B6A5D405_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2026.01.15-03.29.19:660][407]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/40411/Boolean_B6A5D405_Auto8
+[2026.01.15-03.29.19:660][407]LogSavePackage: Moving '../../../../midterm_prototype/Saved/Boolean_B6A5D405_Auto83C71F1EC4793B5E9C771C89249A8AF6F.tmp' to '../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Boolean_B6A5D405_Auto8.uasset'
+[2026.01.15-03.29.19:661][407]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_GENERATED/40411/Box_857B5FE9] ([1] browsable assets)...
+[2026.01.15-03.29.19:661][407]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/40411/Box_857B5FE9]
+[2026.01.15-03.29.19:661][407]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_GENERATED/40411/Box_857B5FE9" FILE="../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Box_857B5FE9_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2026.01.15-03.29.19:670][407]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/40411/Box_857B5FE9_Auto8
+[2026.01.15-03.29.19:670][407]LogSavePackage: Moving '../../../../midterm_prototype/Saved/Box_857B5FE9_Auto8537398954B84F90FB696B492816B48E6.tmp' to '../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Box_857B5FE9_Auto8.uasset'
+[2026.01.15-03.29.19:671][407]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_GENERATED/40411/Box_7F2D214D] ([1] browsable assets)...
+[2026.01.15-03.29.19:671][407]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/40411/Box_7F2D214D]
+[2026.01.15-03.29.19:671][407]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_GENERATED/40411/Box_7F2D214D" FILE="../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Box_7F2D214D_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2026.01.15-03.29.19:678][407]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/40411/Box_7F2D214D_Auto8
+[2026.01.15-03.29.19:678][407]LogSavePackage: Moving '../../../../midterm_prototype/Saved/Box_7F2D214D_Auto8A774BA4A4970E4E328AFD5A425673889.tmp' to '../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Box_7F2D214D_Auto8.uasset'
+[2026.01.15-03.29.19:680][407]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_GENERATED/40411/Boolean_715E0EFD] ([1] browsable assets)...
+[2026.01.15-03.29.19:680][407]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/40411/Boolean_715E0EFD]
+[2026.01.15-03.29.19:680][407]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_GENERATED/40411/Boolean_715E0EFD" FILE="../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Boolean_715E0EFD_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2026.01.15-03.29.19:689][407]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/40411/Boolean_715E0EFD_Auto8
+[2026.01.15-03.29.19:689][407]LogSavePackage: Moving '../../../../midterm_prototype/Saved/Boolean_715E0EFD_Auto81000A9794BE23CE52C8CA296EDE1BEF8.tmp' to '../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Boolean_715E0EFD_Auto8.uasset'
+[2026.01.15-03.29.19:690][407]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_GENERATED/40411/Box_13EE73CF] ([1] browsable assets)...
+[2026.01.15-03.29.19:690][407]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/40411/Box_13EE73CF]
+[2026.01.15-03.29.19:690][407]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_GENERATED/40411/Box_13EE73CF" FILE="../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Box_13EE73CF_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2026.01.15-03.29.19:699][407]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/40411/Box_13EE73CF_Auto8
+[2026.01.15-03.29.19:699][407]LogSavePackage: Moving '../../../../midterm_prototype/Saved/Box_13EE73CF_Auto83E7BAB504D868F54570D7583CCBD4E09.tmp' to '../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Box_13EE73CF_Auto8.uasset'
+[2026.01.15-03.29.19:699][407]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_GENERATED/40411/Boolean_03C19031] ([1] browsable assets)...
+[2026.01.15-03.29.19:699][407]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/40411/Boolean_03C19031]
+[2026.01.15-03.29.19:699][407]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_GENERATED/40411/Boolean_03C19031" FILE="../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Boolean_03C19031_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2026.01.15-03.29.19:709][407]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/40411/Boolean_03C19031_Auto8
+[2026.01.15-03.29.19:711][407]LogSavePackage: Moving '../../../../midterm_prototype/Saved/Boolean_03C19031_Auto86CC3A68D40773ED9723E1989853AFCC5.tmp' to '../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Boolean_03C19031_Auto8.uasset'
+[2026.01.15-03.29.19:711][407]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_GENERATED/40411/Box_E6DF8B37] ([1] browsable assets)...
+[2026.01.15-03.29.19:711][407]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/40411/Box_E6DF8B37]
+[2026.01.15-03.29.19:711][407]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_GENERATED/40411/Box_E6DF8B37" FILE="../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Box_E6DF8B37_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2026.01.15-03.29.19:720][407]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/40411/Box_E6DF8B37_Auto8
+[2026.01.15-03.29.19:720][407]LogSavePackage: Moving '../../../../midterm_prototype/Saved/Box_E6DF8B37_Auto8433456204EC02D82EDBCCFBC251E577B.tmp' to '../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Box_E6DF8B37_Auto8.uasset'
+[2026.01.15-03.29.19:721][407]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_GENERATED/40411/Boolean_7980F55C] ([1] browsable assets)...
+[2026.01.15-03.29.19:721][407]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/40411/Boolean_7980F55C]
+[2026.01.15-03.29.19:721][407]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_GENERATED/40411/Boolean_7980F55C" FILE="../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Boolean_7980F55C_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2026.01.15-03.29.19:728][407]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/40411/Boolean_7980F55C_Auto8
+[2026.01.15-03.29.19:728][407]LogSavePackage: Moving '../../../../midterm_prototype/Saved/Boolean_7980F55C_Auto862256F6647562F77A60B479264ADE4E0.tmp' to '../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Boolean_7980F55C_Auto8.uasset'
+[2026.01.15-03.29.19:729][407]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_GENERATED/40411/Cone_2E7A387C] ([1] browsable assets)...
+[2026.01.15-03.29.19:729][407]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/40411/Cone_2E7A387C]
+[2026.01.15-03.29.19:729][407]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_GENERATED/40411/Cone_2E7A387C" FILE="../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Cone_2E7A387C_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2026.01.15-03.29.19:738][407]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/40411/Cone_2E7A387C_Auto8
+[2026.01.15-03.29.19:738][407]LogSavePackage: Moving '../../../../midterm_prototype/Saved/Cone_2E7A387C_Auto8D3B8A4FC46BCFF78A915798FDCD9A73D.tmp' to '../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Cone_2E7A387C_Auto8.uasset'
+[2026.01.15-03.29.19:738][407]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_GENERATED/40411/Boolean_2A071AB2] ([1] browsable assets)...
+[2026.01.15-03.29.19:738][407]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/40411/Boolean_2A071AB2]
+[2026.01.15-03.29.19:738][407]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_GENERATED/40411/Boolean_2A071AB2" FILE="../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Boolean_2A071AB2_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2026.01.15-03.29.19:748][407]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/40411/Boolean_2A071AB2_Auto8
+[2026.01.15-03.29.19:748][407]LogSavePackage: Moving '../../../../midterm_prototype/Saved/Boolean_2A071AB2_Auto84149BA2C4CC2AF1FBE6319A0E729A5C9.tmp' to '../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Boolean_2A071AB2_Auto8.uasset'
+[2026.01.15-03.29.19:749][407]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_GENERATED/40411/Box_8FA2E34C] ([1] browsable assets)...
+[2026.01.15-03.29.19:749][407]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/40411/Box_8FA2E34C]
+[2026.01.15-03.29.19:749][407]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_GENERATED/40411/Box_8FA2E34C" FILE="../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Box_8FA2E34C_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2026.01.15-03.29.19:756][407]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/40411/Box_8FA2E34C_Auto8
+[2026.01.15-03.29.19:756][407]LogSavePackage: Moving '../../../../midterm_prototype/Saved/Box_8FA2E34C_Auto82E242B084C814BED858990B3462B5033.tmp' to '../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Box_8FA2E34C_Auto8.uasset'
+[2026.01.15-03.29.19:757][407]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_GENERATED/40411/Boolean_F1DD2A7F] ([1] browsable assets)...
+[2026.01.15-03.29.19:757][407]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/40411/Boolean_F1DD2A7F]
+[2026.01.15-03.29.19:757][407]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_GENERATED/40411/Boolean_F1DD2A7F" FILE="../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Boolean_F1DD2A7F_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2026.01.15-03.29.19:767][407]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/40411/Boolean_F1DD2A7F_Auto8
+[2026.01.15-03.29.19:767][407]LogSavePackage: Moving '../../../../midterm_prototype/Saved/Boolean_F1DD2A7F_Auto86DE64FC449D08730417D36B86AE27896.tmp' to '../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Boolean_F1DD2A7F_Auto8.uasset'
+[2026.01.15-03.29.19:768][407]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_GENERATED/40411/Cone_99AED10F] ([1] browsable assets)...
+[2026.01.15-03.29.19:864][407]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/_GENERATED/40411/Cone_99AED10F.Cone_99AED10F]
+[2026.01.15-03.29.19:864][407]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/40411/Cone_99AED10F]
+[2026.01.15-03.29.19:865][407]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_GENERATED/40411/Cone_99AED10F" FILE="../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Cone_99AED10F_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2026.01.15-03.29.19:876][407]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/40411/Cone_99AED10F_Auto8
+[2026.01.15-03.29.19:876][407]LogSavePackage: Moving '../../../../midterm_prototype/Saved/Cone_99AED10F_Auto8D72DB5DC4F6A8B635C024EBAC12F8337.tmp' to '../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Cone_99AED10F_Auto8.uasset'
+[2026.01.15-03.29.19:877][407]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_GENERATED/40411/Cone_3846BBE9] ([1] browsable assets)...
+[2026.01.15-03.29.19:886][407]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/_GENERATED/40411/Cone_3846BBE9.Cone_3846BBE9]
+[2026.01.15-03.29.19:886][407]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/40411/Cone_3846BBE9]
+[2026.01.15-03.29.19:886][407]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_GENERATED/40411/Cone_3846BBE9" FILE="../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Cone_3846BBE9_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2026.01.15-03.29.19:896][407]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/40411/Cone_3846BBE9_Auto8
+[2026.01.15-03.29.19:896][407]LogSavePackage: Moving '../../../../midterm_prototype/Saved/Cone_3846BBE9_Auto8E53E8495403BD6EE993445B4B5471387.tmp' to '../../../../midterm_prototype/Saved/Autosaves/Game/_GENERATED/40411/Cone_3846BBE9_Auto8.uasset'
+[2026.01.15-03.29.19:897][407]LogFileHelpers: Auto-saving content packages took 0.276
