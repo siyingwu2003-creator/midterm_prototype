@@ -25,7 +25,8 @@
 				"D:/unreal engine/midterm_prototype/Content/Material/dimond_Inst.uasset",
 				"D:/unreal engine/midterm_prototype/Content/Material/MAT_Shinny.uasset",
 				"D:/unreal engine/midterm_prototype/Content/Blueprints/BP_Pendulum.uasset",
-				"D:/unreal engine/midterm_prototype/Content/Blueprints/BP_Lognew.uasset"
+				"D:/unreal engine/midterm_prototype/Content/Blueprints/BP_Lognew.uasset",
+				"D:/unreal engine/midterm_prototype/Content/Blueprints/BP_LogSpawner.uasset"
 			]
 		}
 	]
